@@ -1,0 +1,2918 @@
+MESHTERM	1963-1974	1975-1988	1989-1994	1995-2001	2002-2008	2009-2015
+Humans	18	810	844	2138	4218	5824
+Education, Medical	44	544	526	1006	1444	2080
+Curriculum	8	438	442	836	1542	1940
+Female	12	124	152	470	1112	1898
+Male	10	128	130	426	1050	1874
+Internship and Residency	4	328	292	538	1258	1758
+Clinical Competence	0	142	160	354	1126	1684
+Education, Medical, Undergraduate	4	414	380	572	1308	1492
+Students, Medical	4	202	142	290	858	1428
+Education, Medical, Graduate	10	212	242	408	884	1282
+United States	6	436	372	650	1040	1272
+Adult	10	70	82	320	782	1226
+Questionnaires	0	80	162	366	856	1144
+Educational Measurement	4	192	116	226	698	1070
+Education, Medical, Continuing	14	392	254	610	812	818
+Attitude of Health Personnel	2	138	108	240	598	792
+Teaching	10	214	244	400	694	786
+Schools, Medical	12	174	118	306	654	762
+Faculty, Medical	4	130	74	204	398	590
+Program Evaluation	0	4	62	196	580	586
+Learning	4	52	44	124	272	538
+Middle Aged	0	30	32	146	318	476
+Young Adult	0	0	0	0	30	464
+Models, Educational	0	0	8	120	314	416
+Data Collection	0	20	32	108	236	408
+Physicians	6	84	50	116	216	406
+Accreditation	0	30	46	70	292	392
+Cross-Sectional Studies	0	2	2	50	140	362
+Internet	0	0	0	118	314	336
+Physician-Patient Relations	0	88	88	148	276	328
+Health Knowledge, Attitudes, Practice	0	0	18	78	194	326
+Germany	0	16	20	118	198	298
+Career Choice	0	48	54	86	166	294
+Problem-Based Learning	0	0	4	172	350	290
+Program Development	0	0	38	68	230	278
+General Surgery	0	38	22	94	196	278
+Communication	0	38	32	76	212	272
+Great Britain	4	42	62	128	192	260
+Computer-Assisted Instruction	0	32	70	164	200	252
+Retrospective Studies	0	4	6	32	118	248
+Workload	0	0	4	26	164	242
+Competency-Based Education	0	10	0	20	208	230
+Pediatrics	2	30	34	90	136	228
+Qualitative Research	0	0	0	0	46	226
+Professional Competence	0	8	12	44	212	224
+Time Factors	0	52	44	32	144	224
+Aged	0	42	18	74	130	224
+Family Practice	2	164	118	344	362	220
+Canada	16	44	38	84	106	220
+Internal Medicine	0	56	62	94	178	216
+Cooperative Behavior	0	0	0	8	62	214
+Pilot Projects	0	18	26	58	100	210
+Patient Simulation	0	0	4	36	126	186
+Personnel Staffing and Scheduling	0	2	20	14	146	182
+Reproducibility of Results	0	0	4	28	106	180
+Evidence-Based Medicine	0	0	0	40	178	178
+Physician's Practice Patterns	0	4	22	40	104	174
+Clinical Clerkship	0	26	30	68	142	170
+Fellowships and Scholarships	0	14	8	30	104	170
+Focus Groups	0	0	0	14	80	162
+Quality Improvement	0	0	0	0	0	162
+History, 20th Century	2	40	56	114	152	158
+Prospective Studies	0	4	4	26	84	158
+Adolescent	0	6	8	26	114	156
+Academic Medical Centers	0	14	26	80	98	156
+Emergency Medicine	0	8	28	62	148	154
+Computer Simulation	0	2	20	36	102	154
+Mentors	0	2	8	20	58	154
+Educational Status	0	2	14	10	82	152
+Interviews as Topic	0	20	10	12	104	148
+Interprofessional Relations	0	18	18	60	116	138
+Physician's Role	0	18	32	34	94	136
+Medical Staff, Hospital	2	50	46	76	84	136
+Needs Assessment	0	0	2	62	84	136
+Primary Health Care	0	76	44	114	136	134
+Leadership	0	2	10	32	100	134
+User-Computer Interface	0	0	8	38	92	130
+Biomedical Research	0	0	4	2	72	128
+Feedback	0	30	8	22	68	128
+Ethics, Medical	2	34	44	102	78	124
+Research	6	34	56	82	102	118
+Societies, Medical	0	32	36	68	90	118
+Decision Making	0	26	10	34	68	118
+Hospitals, Teaching	2	88	68	88	126	116
+Cohort Studies	0	0	6	22	70	116
+Motivation	0	22	14	34	42	116
+Work Schedule Tolerance	0	2	6	4	92	114
+Netherlands	0	10	4	32	90	114
+Delivery of Health Care	0	42	14	54	88	112
+School Admission Criteria	0	42	30	46	86	112
+Specialization	2	82	72	122	186	110
+Australia	0	54	32	60	82	104
+Staff Development	0	2	6	22	68	104
+Quality of Health Care	2	62	26	28	112	102
+Certification	0	34	26	32	72	102
+Child	0	14	8	30	88	100
+Sex Factors	0	26	12	36	56	100
+International Cooperation	0	8	14	34	78	98
+Patient Care Team	0	12	8	24	50	98
+Anesthesiology	0	6	10	34	46	96
+General Practice	0	0	0	0	0	94
+Medicine	2	62	40	74	114	92
+Forecasting	0	24	54	106	98	92
+Global Health	0	0	4	8	46	92
+Guidelines as Topic	0	0	0	30	96	90
+Diffusion of Innovation	0	2	0	10	46	90
+Research Design	0	6	4	8	38	90
+Education, Distance	0	0	0	34	130	88
+Patient-Centered Care	0	0	0	8	34	88
+Empathy	0	8	2	22	54	86
+Self-Assessment	0	12	4	12	44	86
+Rural Health Services	0	0	0	54	74	84
+Health Care Surveys	0	0	2	14	70	84
+Psychiatry	0	56	6	22	62	84
+Patient Safety	0	0	0	0	0	84
+Physicians, Family	0	46	56	92	122	82
+Radiology	0	12	14	30	50	82
+Public Health	4	2	20	34	42	82
+Orthopedics	0	6	8	20	40	82
+History, 19th Century	0	40	38	64	78	80
+Perception	0	4	4	20	36	80
+Quality Assurance, Health Care	0	10	16	92	110	78
+Anatomy	0	10	12	32	66	78
+History, 21st Century	0	0	0	0	48	78
+Health Services Needs and Demand	0	6	20	20	34	78
+Longitudinal Studies	0	10	0	20	32	78
+Analysis of Variance	0	6	8	24	54	76
+Psychometrics	0	0	0	2	36	76
+Specialty Boards	0	6	14	16	78	74
+Interpersonal Relations	0	12	12	26	60	74
+Obstetrics	0	12	20	20	50	74
+Group Processes	0	14	4	6	44	72
+Universities	4	6	18	26	58	70
+Practice Guidelines as Topic	0	0	4	34	62	68
+Feasibility Studies	0	0	4	20	52	68
+Otolaryngology	0	0	4	10	36	68
+Interdisciplinary Communication	0	2	10	6	30	68
+Internationality	0	0	2	0	30	68
+Statistics as Topic	8	22	2	2	8	68
+Aged, 80 and over	0	0	6	8	44	66
+Manikins	0	2	2	4	40	66
+Health Personnel	0	0	2	10	30	66
+Social Responsibility	0	12	14	22	22	66
+Software	0	8	40	52	70	64
+Gynecology	0	14	22	16	54	64
+Stress, Psychological	0	32	20	8	44	64
+Brazil	0	12	2	4	22	64
+Cultural Competency	0	0	0	0	8	64
+Physicians, Primary Care	0	0	0	0	0	64
+Goals	0	20	26	24	44	62
+Patient Care	0	0	4	10	42	62
+Professional Role	0	0	0	0	42	62
+Medically Underserved Area	0	14	8	46	40	62
+Personal Satisfaction	0	4	4	6	36	62
+Job Satisfaction	0	0	2	24	34	62
+Logistic Models	0	0	0	10	18	62
+Teaching Rounds	0	0	0	0	0	60
+Self Efficacy	0	0	0	0	16	58
+Japan	0	2	18	36	72	56
+Europe	0	12	22	46	44	56
+New Zealand	0	22	8	12	34	56
+Licensure, Medical	0	26	10	8	74	54
+Consumer Behavior	0	16	4	18	66	54
+Periodicals as Topic	0	10	6	14	50	54
+Peer Group	0	2	0	10	38	54
+Health Care Reform	0	0	22	44	32	54
+Personnel Selection	0	12	8	14	26	54
+Socioeconomic Factors	0	6	6	10	18	54
+Risk Assessment	0	2	8	8	18	54
+Neurosurgery	0	4	0	12	14	54
+Geriatrics	0	36	8	22	68	52
+Patient Satisfaction	0	0	0	24	38	52
+Physician Executives	0	2	4	24	36	52
+Humanities	0	10	10	28	26	52
+China	0	16	10	12	26	52
+Documentation	0	0	0	10	20	52
+Ireland	0	2	4	12	18	52
+Osteopathic Medicine	0	8	36	28	76	50
+Medical Errors	0	0	0	10	50	50
+Community Health Services	0	18	10	34	46	50
+Physical Examination	0	14	10	14	30	50
+Statistics, Nonparametric	0	0	0	12	24	50
+Problem Solving	0	42	62	20	18	50
+Models, Theoretical	2	50	28	12	18	50
+General Practitioners	0	0	0	0	0	50
+Developing Countries	0	12	14	16	60	48
+Attitude	0	50	24	42	58	48
+Quality Control	2	4	8	26	38	48
+Hospitals, University	0	10	14	12	38	48
+Risk Factors	0	0	4	16	36	48
+Congresses as Topic	0	0	4	6	30	48
+Organizational Innovation	0	4	20	60	88	46
+Foreign Medical Graduates	0	42	20	34	68	46
+Guideline Adherence	0	0	0	4	44	46
+Neurology	0	8	8	24	42	46
+Cognition	0	10	4	10	36	46
+Education	0	2	0	8	32	46
+Multivariate Analysis	0	0	10	16	26	46
+Pakistan	0	0	2	8	26	46
+Medicare	0	22	16	42	22	46
+Iran	0	4	0	2	22	46
+Ontario	4	18	20	36	54	44
+Organizational Objectives	0	12	34	70	50	44
+Outcome Assessment (Health Care)	0	0	2	26	46	44
+Palliative Care	0	2	12	12	40	44
+Follow-Up Studies	2	10	4	34	36	44
+Adaptation, Psychological	0	6	12	10	34	44
+Age Factors	2	14	4	14	26	44
+Military Medicine	0	2	4	22	20	44
+Continuity of Patient Care	0	4	4	8	14	44
+Self Concept	0	4	6	8	12	44
+Training Support	0	56	52	80	66	42
+Pathology	0	10	26	20	32	42
+Factor Analysis, Statistical	0	4	0	4	30	42
+Health Policy	0	10	14	30	20	42
+Delphi Technique	0	2	0	10	18	42
+Chronic Disease	0	10	2	6	14	42
+Achievement	0	18	8	10	8	42
+Workplace	0	0	0	4	8	42
+England	0	26	26	66	62	40
+Teaching Materials	4	22	26	34	48	40
+Clinical Medicine	0	0	12	24	44	40
+Preceptorship	0	18	12	38	40	40
+Educational Technology	0	0	0	24	36	40
+Treatment Outcome	0	0	2	8	28	40
+Models, Organizational	0	0	4	4	22	40
+Africa South of the Sahara	0	0	0	0	2	40
+Chi-Square Distribution	0	0	4	10	42	38
+California	4	40	12	24	36	38
+Knowledge	0	0	0	14	34	38
+Publishing	0	0	2	14	32	38
+Drug Industry	0	2	8	6	32	38
+Costs and Cost Analysis	0	66	32	50	30	38
+Conflict of Interest	0	0	0	4	28	38
+History, 18th Century	0	22	14	20	26	38
+Italy	0	4	4	6	26	38
+Social Support	0	4	4	0	22	38
+Cost-Benefit Analysis	0	8	4	36	20	38
+Philosophy, Medical	2	10	8	20	20	38
+Databases, Factual	0	0	12	4	14	38
+Surgery, Plastic	0	0	4	2	14	38
+Rural Population	0	6	4	22	10	38
+Saudi Arabia	0	4	8	4	8	38
+Health Services Research	0	4	4	20	36	36
+Denmark	0	2	4	16	22	36
+Task Performance and Analysis	2	4	0	6	22	36
+Specialties, Surgical	0	0	0	6	22	36
+Referral and Consultation	0	20	4	24	20	36
+Emotions	0	12	2	10	20	36
+Awareness	0	2	2	2	16	36
+Retention (Psychology)	0	0	0	2	14	36
+Safety Management	0	0	0	0	12	36
+Feedback, Psychological	0	0	0	0	10	36
+Cross-Cultural Comparison	0	0	8	6	8	36
+Social Identification	0	0	0	2	4	36
+Professional Practice	0	10	24	32	64	34
+Faculty	0	6	6	14	42	34
+Medical History Taking	0	22	18	24	38	34
+Organizational Culture	0	0	2	16	38	34
+Professional Practice Location	0	4	8	26	30	34
+Minnesota	0	14	6	10	26	34
+Cardiology	0	8	8	22	24	34
+Video Recording	0	4	8	14	18	34
+Writing	2	4	8	6	14	34
+Computers, Handheld	0	0	0	0	12	34
+Education, Nursing	0	2	4	10	8	34
+Odds Ratio	0	0	4	6	8	34
+Electronic Health Records	0	0	0	0	0	34
+Cultural Diversity	0	2	0	16	100	32
+France	0	4	14	28	50	32
+Prejudice	0	2	10	30	32	32
+Ophthalmology	0	8	6	10	32	32
+Evaluation Studies as Topic	6	110	64	76	28	32
+Surgical Procedures, Operative	0	2	0	6	28	32
+Language	2	6	4	10	18	32
+Switzerland	0	6	4	12	16	32
+Regression Analysis	0	6	14	22	14	32
+Narration	0	0	0	2	14	32
+Comprehension	0	0	0	0	6	32
+Confidence Intervals	0	0	2	6	4	32
+Social Media	0	0	0	0	0	32
+Culture	0	10	4	20	22	30
+Thinking	0	2	4	8	22	30
+Drug Prescriptions	0	8	4	6	20	30
+Preventive Medicine	0	16	12	16	18	30
+Burnout, Professional	0	2	0	8	18	30
+Taiwan	0	0	0	6	14	30
+Inservice Training	0	6	6	22	12	30
+Choice Behavior	0	8	4	2	10	30
+National Health Programs	0	4	2	20	8	30
+Information Dissemination	0	0	0	0	8	30
+Patient Handoff	0	0	0	0	0	30
+Pathology, Clinical	0	6	2	0	28	28
+Boston	0	10	10	12	24	28
+Cadaver	0	0	0	4	22	28
+Pennsylvania	2	10	8	12	20	28
+Texas	0	12	6	8	20	28
+Linear Models	0	0	2	6	20	28
+Career Mobility	0	2	2	10	18	28
+Terminology as Topic	0	2	4	6	14	28
+Consensus	0	0	0	2	12	28
+Politics	0	8	0	14	10	28
+Financial Support	0	0	0	6	10	28
+Ultrasonography	0	2	0	2	8	28
+Review Literature as Topic	0	0	0	0	8	28
+Patient Participation	0	2	0	12	36	26
+Quality of Life	0	0	2	2	34	26
+Scotland	0	18	14	32	32	26
+Minority Groups	0	16	28	28	28	26
+Terminal Care	0	8	6	8	28	26
+Dermatology	0	4	2	4	28	26
+Multimedia	0	0	0	30	24	26
+Telemedicine	0	0	0	24	22	26
+International Educational Exchange	0	4	10	18	20	26
+Laparoscopy	0	0	0	10	20	26
+Pregnancy	0	2	4	6	18	26
+Patients	0	14	16	8	16	26
+Mental Disorders	0	12	2	8	16	26
+Algorithms	0	0	0	4	14	26
+Critical Care	0	2	6	8	12	26
+Substance-Related Disorders	0	8	16	4	12	26
+Social Environment	0	4	4	0	12	26
+Checklist	0	0	0	0	0	26
+Self Report	0	0	0	0	0	26
+Online Systems	0	2	4	6	28	24
+Role Playing	0	2	4	10	26	24
+Health Services Accessibility	0	4	6	22	24	24
+Videotape Recording	0	12	6	10	22	24
+Neoplasms	0	10	6	10	20	24
+Quality Indicators, Health Care	0	0	0	2	20	24
+Austria	0	6	6	2	18	24
+Fatigue	0	0	4	2	18	24
+State Medicine	0	12	12	22	16	24
+Benchmarking	0	0	0	2	16	24
+Science	0	32	8	32	10	24
+Textbooks as Topic	0	2	4	4	4	24
+Efficiency	0	4	2	4	2	24
+Ambulatory Care	0	18	24	28	42	22
+Ethnic Groups	0	10	10	30	34	22
+India	0	4	6	2	34	22
+Health Manpower	2	20	16	30	32	22
+Medical Informatics	0	4	20	38	30	22
+Health Promotion	0	6	20	14	30	22
+Infant	0	6	2	10	30	22
+Emergency Service, Hospital	0	4	8	16	26	22
+Research Support as Topic	0	14	6	20	22	22
+Israel	0	8	8	8	22	22
+Patient Education as Topic	0	2	8	12	20	22
+Counseling	0	4	8	6	20	22
+Attitude to Death	0	6	4	6	20	22
+Emergency Medical Services	0	2	0	2	20	22
+New York City	0	4	6	12	16	22
+European Union	0	0	10	8	16	22
+Health Surveys	0	2	4	0	16	22
+Truth Disclosure	0	2	2	0	16	22
+Intensive Care Units	0	0	0	0	16	22
+Medical Oncology	0	8	18	24	14	22
+Case-Control Studies	0	0	2	0	14	22
+Salaries and Fringe Benefits	0	6	2	20	12	22
+North Carolina	0	4	8	12	12	22
+HIV Infections	0	0	4	6	10	22
+Disabled Persons	0	2	2	2	10	22
+Alberta	2	4	6	20	8	22
+Vascular Surgical Procedures	0	0	2	4	8	22
+Environment	0	2	0	0	8	22
+Models, Psychological	0	6	2	4	6	22
+Residence Characteristics	0	2	2	2	6	22
+Thoracic Surgery	0	0	0	6	4	22
+Single-Blind Method	0	0	0	2	2	22
+Evidence-Based Practice	0	0	0	0	0	22
+Michigan	0	16	8	8	40	20
+New York	0	12	16	24	34	20
+Emigration and Immigration	0	4	2	8	32	20
+Information Storage and Retrieval	0	0	4	14	30	20
+Infant, Newborn	0	10	4	12	28	20
+Sleep Deprivation	0	0	2	2	18	20
+Social Perception	0	0	0	0	18	20
+Social Values	0	10	16	24	16	20
+New South Wales	0	0	6	10	14	20
+Hospital Mortality	0	0	0	0	14	20
+North America	0	8	4	6	10	20
+San Francisco	0	0	2	4	10	20
+Administrative Personnel	0	12	6	14	8	20
+Observer Variation	0	0	0	2	8	20
+Videoconferencing	0	0	0	0	8	20
+Systems Integration	0	0	0	6	4	20
+Community-Institutional Relations	0	0	2	18	2	20
+Pain Management	0	0	0	2	2	20
+Nurses	0	0	4	0	0	20
+Neurosurgical Procedures	0	0	0	0	0	20
+Webcasts as Topic	0	0	0	0	0	20
+Urology	0	8	2	4	46	18
+Humanism	0	8	8	26	36	18
+Interinstitutional Relations	0	0	4	22	28	18
+Informed Consent	0	6	2	6	26	18
+Organizational Policy	0	0	14	18	24	18
+Norway	0	4	18	26	22	18
+Employment	0	4	4	22	20	18
+London	0	10	10	12	20	18
+Models, Anatomic	0	2	8	10	20	18
+Education, Premedical	0	24	12	2	18	18
+Healthcare Disparities	0	0	0	0	18	18
+Spain	0	2	4	18	16	18
+African Americans	0	6	12	10	16	18
+Altruism	0	0	6	2	16	18
+Commerce	0	0	2	10	12	18
+Nigeria	0	14	8	6	12	18
+Bias (Epidemiology)	0	0	0	6	12	18
+Biological Science Disciplines	0	0	0	4	12	18
+Financing, Government	0	22	2	20	10	18
+Rheumatology	0	4	2	12	8	18
+Diagnostic Imaging	0	0	0	10	8	18
+Models, Statistical	0	0	4	4	8	18
+Sleep	0	2	0	4	8	18
+Job Application	0	0	4	2	8	18
+Bibliometrics	0	0	0	2	8	18
+Consensus Development Conferences as Topic	0	0	0	0	8	18
+Drama	0	0	0	0	8	18
+Psychomotor Performance	0	0	0	0	8	18
+Personality	0	6	8	6	6	18
+Cardiovascular Diseases	0	4	2	4	4	18
+Health Services for the Aged	0	2	0	2	4	18
+Publications	0	0	0	0	4	18
+Disaster Medicine	0	0	0	0	0	18
+Interdisciplinary Studies	0	0	0	0	0	18
+Otorhinolaryngologic Surgical Procedures	0	0	0	0	0	18
+Sweden	0	4	12	30	40	16
+Quebec	2	8	6	8	32	16
+Child, Preschool	0	4	2	6	28	16
+Peer Review	2	18	16	10	22	16
+Probability	0	2	4	4	22	16
+Dissection	0	2	2	2	20	16
+Stereotyping	0	0	0	2	18	16
+Ambulatory Care Facilities	0	2	4	8	16	16
+Advisory Committees	0	0	0	0	16	16
+Croatia	0	0	0	6	14	16
+Chile	0	6	10	20	12	16
+Audiovisual Aids	0	24	20	8	12	16
+Hospitals, Veterans	0	4	10	6	12	16
+Diagnosis, Differential	0	0	6	6	12	16
+Physical and Rehabilitation Medicine	0	10	4	4	12	16
+British Columbia	0	0	0	4	12	16
+Occupational Health	0	0	0	4	12	16
+Bioethics	0	2	2	10	10	16
+Gastroenterology	0	8	10	4	10	16
+Hospitals, Pediatric	0	0	2	4	10	16
+Professional-Patient Relations	0	2	0	4	10	16
+Length of Stay	2	4	10	2	10	16
+Role	0	20	2	2	10	16
+Public Policy	0	10	4	4	8	16
+Child Psychiatry	0	0	0	2	8	16
+Disaster Planning	0	0	0	2	8	16
+Social Change	0	2	6	12	6	16
+Professional Autonomy	0	0	0	6	6	16
+Hospitalists	0	0	0	0	6	16
+Personal Autonomy	0	0	4	2	4	16
+Resuscitation	0	6	2	2	4	16
+Health Care Costs	0	0	2	2	4	16
+Health Occupations	2	2	2	4	0	16
+Postoperative Complications	0	0	2	2	0	16
+Reconstructive Surgical Procedures	0	0	0	0	0	16
+Social Networking	0	0	0	0	0	16
+Total Quality Management	0	0	2	22	42	14
+Animals	0	2	14	4	42	14
+Attitude to Computers	0	0	6	18	28	14
+Wounds and Injuries	0	2	8	0	26	14
+Singapore	0	4	8	8	22	14
+Efficiency, Organizational	0	0	0	16	20	14
+Physiology	0	8	6	4	20	14
+Physicians, Women	0	20	20	30	18	14
+Smoking Cessation	0	0	0	6	18	14
+Smoking	0	2	2	4	18	14
+Russia	0	0	2	14	16	14
+Private Sector	0	0	0	8	16	14
+Traumatology	0	0	0	2	16	14
+Connecticut	0	2	2	10	14	14
+Diabetes Mellitus	0	2	0	8	14	14
+Libraries, Medical	2	14	14	14	12	14
+Hospitals	0	12	12	10	12	14
+Massachusetts	0	4	8	6	12	14
+Software Design	0	0	6	6	12	14
+Prevalence	0	0	0	6	12	14
+Life Style	0	0	4	0	12	14
+History, Ancient	0	2	2	10	10	14
+Argentina	0	2	2	4	10	14
+Georgia	0	2	0	2	10	14
+Intervention Studies	0	0	0	2	10	14
+Radiation Oncology	0	0	0	2	10	14
+Inpatients	0	2	2	0	10	14
+Poland	2	2	2	10	8	14
+Credentialing	0	0	2	8	8	14
+Military Personnel	0	2	0	4	8	14
+Adolescent Psychiatry	0	0	0	2	8	14
+Intention	0	0	0	0	8	14
+Practice (Psychology)	0	0	0	0	8	14
+Social Sciences	0	10	2	6	6	14
+Oceanic Ancestry Group	0	0	0	6	6	14
+Patient Advocacy	0	6	2	4	6	14
+United States Department of Veterans Affairs	0	0	2	4	6	14
+Emergencies	0	2	2	2	6	14
+Obesity	0	4	0	0	6	14
+Health Status Disparities	0	0	0	0	6	14
+Societies	0	0	4	6	4	14
+Remedial Teaching	0	0	2	2	4	14
+Kenya	0	0	2	0	4	14
+Pulmonary Medicine	0	0	0	8	2	14
+Volunteers	0	0	0	8	2	14
+Employee Performance Appraisal	0	2	2	2	2	14
+Morbidity	0	2	2	2	2	14
+Comorbidity	0	0	0	2	2	14
+Abortion, Induced	0	0	0	0	2	14
+Motion Pictures as Topic	0	6	0	6	0	14
+Clinical Audit	0	0	0	0	0	14
+Video Games	0	0	0	0	0	14
+Organizational Case Studies	0	0	0	4	68	12
+Data Interpretation, Statistical	0	0	0	4	30	12
+Turkey	0	0	2	2	26	12
+Demography	0	2	2	4	22	12
+History, 17th Century	0	14	10	8	20	12
+Nutritional Sciences	0	12	8	16	18	12
+Diagnosis	0	22	4	4	16	12
+Behavior	0	10	2	16	14	12
+Continental Population Groups	0	0	2	8	14	12
+Mass Screening	0	0	0	8	14	12
+Self-Evaluation Programs	0	14	8	4	14	12
+Belgium	0	0	2	4	14	12
+Sex Distribution	0	0	2	4	14	12
+College Admission Test	0	8	2	2	14	12
+Safety	0	2	0	0	14	12
+American Medical Association	0	16	6	6	12	12
+Greece	0	4	0	4	12	12
+Communication Barriers	0	2	4	0	12	12
+Florida	0	10	4	6	10	12
+Job Description	0	0	4	6	10	12
+Philadelphia	0	0	2	6	10	12
+Baltimore	0	0	0	4	10	12
+Electronic Mail	0	0	0	0	10	12
+Policy Making	0	0	2	16	8	12
+Health Education	0	12	4	8	8	12
+Mexico	0	14	0	4	8	12
+Registries	0	0	0	4	8	12
+Medical Records Systems, Computerized	0	0	2	2	8	12
+Cardiopulmonary Resuscitation	0	0	0	2	8	12
+Education, Professional	0	0	0	2	8	12
+Musculoskeletal Diseases	0	0	0	2	8	12
+Education, Pharmacy	0	6	2	0	8	12
+Public Health Practice	0	0	0	0	8	12
+Hospitals, Community	0	38	8	14	6	12
+Queensland	0	0	2	10	6	12
+Students	0	6	0	8	6	12
+South Carolina	0	2	0	8	6	12
+Health Status	0	2	2	6	6	12
+Health Resources	0	2	4	2	6	12
+Research Personnel	0	2	0	2	6	12
+Tennessee	0	2	0	2	6	12
+Access to Information	0	0	0	2	6	12
+Mental Recall	0	8	6	0	6	12
+Vulnerable Populations	0	0	2	0	6	12
+Aging	0	2	0	0	6	12
+Morals	0	2	14	16	4	12
+Breast Neoplasms	2	2	4	12	4	12
+Family	0	2	2	10	4	12
+Medicaid	0	4	0	10	4	12
+Disclosure	0	6	4	6	4	12
+Neonatology	0	4	0	4	4	12
+Time and Motion Studies	0	0	6	2	4	12
+Art	0	0	0	2	4	12
+Confidentiality	0	0	0	2	4	12
+Attention	0	0	0	0	4	12
+Self Care	0	0	0	0	4	12
+Skin Neoplasms	0	0	2	4	2	12
+Surgery Department, Hospital	0	0	0	4	2	12
+Institute of Medicine (U.S.)	0	0	0	2	2	12
+Medicine in Art	0	0	2	0	2	12
+Knowledge of Results (Psychology)	0	0	0	0	2	12
+Patient Readmission	0	0	0	0	2	12
+Allied Health Personnel	2	16	6	6	0	12
+Physician Assistants	0	2	0	4	0	12
+Hand	0	0	0	2	0	12
+Organization and Administration	4	30	2	0	0	12
+Early Detection of Cancer	0	0	0	0	0	12
+Marital Status	0	0	0	0	0	12
+Patient Protection and Affordable Care Act	0	0	0	0	0	12
+Translational Medical Research	0	0	0	0	0	12
+Attitude to Health	0	6	8	24	48	10
+Malaysia	0	4	8	6	38	10
+Complementary Therapies	0	0	0	4	28	10
+Washington	0	20	4	10	26	10
+Women's Health	0	0	0	24	22	10
+Rural Health	0	28	14	8	22	10
+South Africa	0	16	4	10	20	10
+Computers	0	14	6	8	20	10
+Sensitivity and Specificity	0	0	2	8	20	10
+Spirituality	0	0	0	0	18	10
+Ohio	0	30	12	14	16	10
+Medical Records	0	10	6	2	16	10
+Imaging, Three-Dimensional	0	0	0	2	14	10
+Hospital Costs	0	0	6	18	12	10
+Socialization	0	4	8	10	12	10
+Economics, Medical	0	12	12	12	10	10
+Community Health Centers	0	12	6	10	10	10
+Sexual Harassment	0	0	2	8	10	10
+Hypertension	0	6	0	6	10	10
+Ethics, Professional	0	0	4	4	10	10
+Risk Management	0	2	2	4	10	10
+Depressive Disorder	0	2	0	4	10	10
+Medical Informatics Applications	0	0	0	4	10	10
+Electrocardiography	0	2	2	2	10	10
+Games, Experimental	0	0	0	2	10	10
+Medication Errors	0	2	0	0	10	10
+Orthopedic Procedures	0	0	0	0	10	10
+Computer Systems	0	0	4	10	8	10
+Income	0	4	10	8	8	10
+Practice Management, Medical	0	4	4	8	8	10
+Hispanic Americans	0	0	6	4	8	10
+Power (Psychology)	0	0	6	4	8	10
+Anthropology, Cultural	0	0	0	4	8	10
+Pain	0	0	0	4	8	10
+Behavioral Sciences	0	22	4	2	8	10
+Social Justice	0	0	4	2	8	10
+Industry	0	2	0	2	8	10
+Sexual Behavior	0	2	0	0	8	10
+Cost Control	0	20	4	18	6	10
+Hospitals, Rural	0	2	0	12	6	10
+Autopsy	0	0	10	10	6	10
+Nurse Practitioners	0	6	0	6	6	10
+Databases, Bibliographic	0	0	2	2	6	10
+Metaphor	0	0	0	0	6	10
+Hungary	0	0	2	16	4	10
+Consultants	0	0	2	10	4	10
+Professional Misconduct	0	0	4	8	4	10
+Academies and Institutes	0	0	4	6	4	10
+Cultural Characteristics	0	0	4	6	4	10
+Predictive Value of Tests	0	0	2	2	4	10
+Cardiac Surgical Procedures	0	0	0	2	4	10
+Cluster Analysis	0	0	0	2	4	10
+Judgment	0	0	0	2	4	10
+Neurosciences	0	0	0	2	4	10
+Time Management	0	0	0	2	4	10
+Death Certificates	0	0	2	0	4	10
+Stroke	0	0	0	0	4	10
+Models, Economic	0	0	0	14	2	10
+Nephrology	0	2	2	2	2	10
+Mortality	0	0	2	2	2	10
+Systems Theory	0	0	2	2	2	10
+Cross-Over Studies	0	0	0	2	2	10
+Psychological Theory	0	0	0	2	2	10
+Asia, Southeastern	0	2	2	0	2	10
+Parental Leave	0	0	2	0	2	10
+Cell Phones	0	0	0	0	2	10
+Osteopathic Physicians	0	0	0	0	2	10
+Sex Characteristics	0	0	0	0	2	10
+Uncertainty	0	0	0	0	2	10
+Acute Disease	0	0	0	8	0	10
+Schools, Nursing	0	0	0	2	0	10
+Tomography, X-Ray Computed	0	0	0	2	0	10
+Equipment and Supplies	0	2	0	0	0	10
+Emotional Intelligence	0	0	0	0	0	10
+Learning Curve	0	0	0	0	0	10
+Public-Private Sector Partnerships	0	0	0	0	0	10
+Resilience, Psychological	0	0	0	0	0	10
+Spinal Puncture	0	0	0	0	0	10
+Community Medicine	0	28	34	34	40	8
+Telecommunications	0	6	4	22	26	8
+Psychotherapy	0	12	4	10	22	8
+Depression	0	6	2	4	20	8
+Medical Audit	0	30	4	18	16	8
+Occupational Medicine	0	4	4	14	16	8
+Asthma	0	2	0	12	16	8
+Databases as Topic	0	0	0	2	16	8
+Delivery of Health Care, Integrated	0	0	0	10	14	8
+Professional-Family Relations	0	2	0	8	14	8
+Anti-Bacterial Agents	0	2	2	0	14	8
+Point-of-Care Systems	0	0	0	0	14	8
+Virginia	0	8	8	12	12	8
+Decision Support Systems, Clinical	0	0	0	4	12	8
+Observation	0	0	0	2	12	8
+Arkansas	0	0	0	0	12	8
+Education, Dental	0	10	6	2	10	8
+Rehabilitation	0	14	8	0	10	8
+Health Behavior	0	0	2	8	8	8
+Urban Population	0	2	0	8	8	8
+United Arab Emirates	0	0	0	8	8	8
+Poverty	0	2	4	6	8	8
+Diagnostic Errors	0	4	0	6	8	8
+Religion and Medicine	0	4	0	6	8	8
+Endoscopy	0	0	0	4	8	8
+Semantics	0	0	0	4	8	8
+Data Display	0	0	4	2	8	8
+Automobile Driving	0	0	0	2	8	8
+Forensic Medicine	0	4	2	0	8	8
+Thailand	0	8	2	10	6	8
+Reading	0	2	4	6	6	8
+Health Services, Indigenous	0	0	2	6	6	8
+War	0	4	0	6	6	8
+Clinical Protocols	0	0	8	4	6	8
+Alcoholism	0	14	6	4	6	8
+Arizona	0	2	2	4	6	8
+Western Australia	0	0	0	4	6	8
+Creativity	0	0	2	2	6	8
+Malpractice	0	6	0	2	6	8
+Intensive Care	0	0	0	2	6	8
+Disease Management	0	0	0	0	6	8
+Ethics, Research	0	0	0	0	6	8
+History, Medieval	0	4	4	12	4	8
+Illinois	0	24	4	6	4	8
+Medical Illustration	0	0	2	6	4	8
+Human Rights	0	0	0	6	4	8
+Philosophy	0	4	10	4	4	8
+District of Columbia	0	4	0	4	4	8
+Africa	2	0	4	2	4	8
+Systems Analysis	0	0	2	2	4	8
+Midwestern United States	0	0	0	2	4	8
+Peer Review, Health Care	0	0	0	2	4	8
+Rhode Island	0	0	0	2	4	8
+Expert Testimony	0	0	2	0	4	8
+Gift Giving	0	0	2	0	4	8
+Severity of Illness Index	0	0	2	0	4	8
+Heart Failure	0	2	0	0	4	8
+Respiration, Artificial	0	2	0	0	4	8
+Abdomen	0	0	0	0	4	8
+Child Welfare	0	0	0	0	4	8
+Emigrants and Immigrants	0	0	0	0	4	8
+Tissue and Organ Procurement	0	0	0	0	4	8
+Triage	0	0	0	0	4	8
+Hospitals, General	0	4	4	16	2	8
+Portugal	0	0	4	10	2	8
+Therapeutics	0	4	4	8	2	8
+Puerto Rico	0	0	2	8	2	8
+Decision Support Techniques	0	0	4	4	2	8
+Melanoma	0	0	0	4	2	8
+Social Work	0	8	0	2	2	8
+Aptitude Tests	0	2	0	2	2	8
+Patient Rights	0	2	0	2	2	8
+Caribbean Region	0	0	0	2	2	8
+Geriatric Assessment	0	0	0	2	2	8
+Process Assessment (Health Care)	0	0	0	2	2	8
+Respiratory Tract Infections	0	0	0	2	2	8
+Personnel Management	0	8	4	0	2	8
+Competitive Behavior	0	2	2	0	2	8
+Epidemiologic Methods	0	0	2	0	2	8
+Homeopathy	0	0	2	0	2	8
+Students, Premedical	2	0	0	0	2	8
+Blogging	0	0	0	0	2	8
+Catheterization, Central Venous	0	0	0	0	2	8
+Forensic Psychiatry	0	0	0	0	2	8
+Practice Management	0	0	0	0	2	8
+Pulmonary Disease, Chronic Obstructive	0	0	0	0	2	8
+Social Welfare	0	0	0	0	2	8
+Vocational Guidance	0	0	0	0	2	8
+Reimbursement Mechanisms	0	8	8	8	0	8
+Microscopy	0	0	0	6	0	8
+Middle East	0	0	0	6	0	8
+Headache	0	0	0	4	0	8
+Manuscripts, Medical	0	2	0	2	0	8
+Anesthesia Department, Hospital	0	0	0	2	0	8
+Diagnostic Techniques and Procedures	0	0	0	2	0	8
+Biochemistry	0	4	4	0	0	8
+Famous Persons	0	2	4	0	0	8
+Night Care	0	0	4	0	0	8
+Negotiating	0	0	2	0	0	8
+Social Control, Informal	0	0	2	0	0	8
+Long-Term Care	0	6	0	0	0	8
+Philippines	0	2	0	0	0	8
+After-Hours Care	0	0	0	0	0	8
+Anthroposophy	0	0	0	0	0	8
+Biological Markers	0	0	0	0	0	8
+Ethiopia	0	0	0	0	0	8
+Health Literacy	0	0	0	0	0	8
+Individualized Medicine	0	0	0	0	0	8
+Music	0	0	0	0	0	8
+Sexism	0	0	0	0	0	8
+Syria	0	0	0	0	0	8
+Ultrasonography, Interventional	0	0	0	0	0	8
+Anxiety	0	4	6	4	24	6
+Wisconsin	0	4	6	12	22	6
+Medical Laboratory Science	0	12	0	6	22	6
+History, 16th Century	0	6	4	8	16	6
+Kentucky	0	0	4	8	16	6
+Outcome and Process Assessment (Health Care)	0	10	2	2	16	6
+Hawaii	0	0	0	0	16	6
+Licensure	2	0	0	8	14	6
+Randomized Controlled Trials as Topic	0	0	2	2	14	6
+Patient Acceptance of Health Care	0	4	0	2	14	6
+Population Surveillance	0	0	2	0	14	6
+Consumer Participation	0	4	0	8	12	6
+Public Sector	0	0	0	4	12	6
+Ethics Committees, Research	0	0	0	0	12	6
+Psychology, Educational	0	0	0	0	12	6
+Remote Consultation	0	0	0	10	10	6
+Patient Care Management	0	0	0	2	10	6
+Victoria	0	0	4	0	10	6
+Intubation, Intratracheal	0	0	2	0	10	6
+Peer Review, Research	0	0	0	0	10	6
+Robotics	0	0	0	0	10	6
+Budgets	0	4	6	8	8	6
+Urban Health	0	2	0	6	8	6
+Legislation, Medical	0	4	2	4	8	6
+Nepal	0	0	0	4	8	6
+Psychology	0	10	4	2	8	6
+Alabama	0	8	0	2	8	6
+Hong Kong	0	0	0	2	8	6
+Trust	0	0	0	2	8	6
+Microbiology	0	2	4	0	8	6
+Occupational Diseases	0	8	2	0	8	6
+Memory	0	2	0	0	8	6
+Egypt	0	2	2	6	6	6
+Education, Graduate	0	0	0	6	6	6
+Concept Formation	0	6	0	4	6	6
+Vermont	0	2	0	4	6	6
+Health Services Administration	0	0	0	4	6	6
+Virtues	0	0	0	4	6	6
+Chicago	0	14	8	2	6	6
+Mental Health	0	0	4	2	6	6
+Genetic Testing	0	0	0	2	6	6
+Malawi	0	0	0	2	6	6
+Programming Languages	0	0	0	2	6	6
+Uterine Cervical Neoplasms	0	0	2	0	6	6
+Digestive System Surgical Procedures	0	0	0	0	6	6
+Education, Public Health Professional	0	0	0	0	6	6
+Genetics, Medical	0	0	0	0	6	6
+Financing, Organized	0	12	4	16	4	6
+Information Systems	0	6	22	14	4	6
+Psychosomatic Medicine	0	2	2	12	4	6
+Prospective Payment System	0	4	4	8	4	6
+Health Services	0	8	2	8	4	6
+Private Practice	0	10	2	6	4	6
+Histology	0	0	0	6	4	6
+New Jersey	0	4	8	4	4	6
+Oregon	0	4	6	4	4	6
+Student Dropouts	0	0	4	4	4	6
+Asian Americans	0	0	0	4	4	6
+Journalism, Medical	0	0	0	4	4	6
+Mammography	0	2	6	2	4	6
+Maryland	0	6	0	2	4	6
+Persuasive Communication	0	0	0	2	4	6
+Vietnam	0	0	0	2	4	6
+Nursing Homes	0	8	2	0	4	6
+Blood Pressure	0	2	2	0	4	6
+Equipment Design	0	2	2	0	4	6
+Heart Diseases	0	2	2	0	4	6
+Reference Books, Medical	0	2	2	0	4	6
+Family Characteristics	0	2	0	0	4	6
+Mental Health Services	0	2	0	0	4	6
+Anesthesia	0	0	0	0	4	6
+Asian Continental Ancestry Group	0	0	0	0	4	6
+Minimally Invasive Surgical Procedures	0	0	0	0	4	6
+Risk-Taking	0	0	0	0	4	6
+Sexuality	0	0	0	0	4	6
+Social Medicine	0	12	12	10	2	6
+Medical Staff	0	0	2	10	2	6
+Diagnosis, Computer-Assisted	0	8	22	6	2	6
+Population Dynamics	0	2	0	6	2	6
+Government Agencies	0	2	2	4	2	6
+History, 15th Century	0	2	2	4	2	6
+Utah	0	2	2	4	2	6
+Economics, Hospital	0	6	0	4	2	6
+Travel	0	0	0	4	2	6
+Violence	0	0	0	4	2	6
+Alaska	0	8	2	2	2	6
+Myocardial Infarction	0	6	2	2	2	6
+Advertising as Topic	0	2	2	2	2	6
+Cause of Death	0	0	2	2	2	6
+Echocardiography	0	2	0	2	2	6
+Governing Board	0	2	0	2	2	6
+Family Relations	0	0	0	2	2	6
+Government Programs	0	0	0	2	2	6
+Health Care Sector	0	0	0	2	2	6
+MEDLINE	0	0	6	0	2	6
+Cuba	0	2	2	0	2	6
+Appointments and Schedules	0	0	2	0	2	6
+Photography	0	0	2	0	2	6
+Schizophrenia	0	2	0	0	2	6
+Acute Coronary Syndrome	0	0	0	0	2	6
+Antihypertensive Agents	0	0	0	0	2	6
+Brain Neoplasms	0	0	0	0	2	6
+Breast Feeding	0	0	0	0	2	6
+Geography	0	0	0	0	2	6
+Government Regulation	0	0	0	0	2	6
+Magnetic Resonance Imaging	0	0	0	0	2	6
+Mozambique	0	0	0	0	2	6
+Organizations, Nonprofit	0	0	0	0	2	6
+Reminder Systems	0	0	0	0	2	6
+Research Subjects	0	0	0	0	2	6
+Spirometry	0	0	0	0	2	6
+Suture Techniques	0	0	0	0	2	6
+Thoracic Surgical Procedures	0	0	0	0	2	6
+Technology	0	4	2	8	0	6
+Patient Compliance	0	2	0	6	0	6
+Indians, North American	0	0	0	6	0	6
+Librarians	0	0	0	6	0	6
+Blood Transfusion	0	0	4	4	0	6
+Mathematics	0	0	0	4	0	6
+Europe, Eastern	0	2	0	2	0	6
+Automation	0	0	0	2	0	6
+Endoscopy, Gastrointestinal	0	0	0	2	0	6
+Survival Rate	0	0	0	2	0	6
+Intraoperative Complications	0	0	2	0	0	6
+Personhood	0	0	2	0	0	6
+Reward	0	0	2	0	0	6
+Substance Abuse Detection	0	0	2	0	0	6
+Literature, Modern	0	4	0	0	0	6
+Aptitude	0	2	0	0	0	6
+Child Care	0	2	0	0	0	6
+Students, Nursing	0	2	0	0	0	6
+Uganda	0	2	0	0	0	6
+Airway Management	0	0	0	0	0	6
+Aortic Aneurysm, Abdominal	0	0	0	0	0	6
+Appendectomy	0	0	0	0	0	6
+Austria-Hungary	0	0	0	0	0	6
+Bisexuality	0	0	0	0	0	6
+Capacity Building	0	0	0	0	0	6
+Cardiovascular System	0	0	0	0	0	6
+Colectomy	0	0	0	0	0	6
+Critical Pathways	0	0	0	0	0	6
+Elective Surgical Procedures	0	0	0	0	0	6
+Endovascular Procedures	0	0	0	0	0	6
+Health Records, Personal	0	0	0	0	0	6
+Hip Fractures	0	0	0	0	0	6
+Homosexuality, Female	0	0	0	0	0	6
+Homosexuality, Male	0	0	0	0	0	6
+Integrative Medicine	0	0	0	0	0	6
+Mobile Applications	0	0	0	0	0	6
+Neck	0	0	0	0	0	6
+Operative Time	0	0	0	0	0	6
+Patient Preference	0	0	0	0	0	6
+Prescription Drugs	0	0	0	0	0	6
+Research Report	0	0	0	0	0	6
+Rwanda	0	0	0	0	0	6
+Search Engine	0	0	0	0	0	6
+Sepsis	0	0	0	0	0	6
+Spiritual Therapies	0	0	0	0	0	6
+Drug Utilization	0	4	2	4	24	4
+New Mexico	0	14	2	2	18	4
+Holistic Health	0	4	2	6	14	4
+Domestic Violence	0	0	0	14	12	4
+South Australia	0	0	4	6	12	4
+Models, Biological	0	6	0	4	12	4
+Social Class	0	6	2	10	10	4
+Outpatient Clinics, Hospital	0	8	8	6	10	4
+Education, Continuing	0	2	2	6	10	4
+History of Medicine	0	6	0	6	10	4
+Sociology, Medical	0	4	6	4	10	4
+Risk	0	2	2	4	10	4
+Life Support Care	0	4	0	2	10	4
+Pharmacology, Clinical	0	2	8	0	10	4
+International Agencies	0	0	2	0	10	4
+Medicine, Chinese Traditional	0	6	0	0	10	4
+Korea	0	0	10	14	8	4
+Organizational Affiliation	0	6	2	10	8	4
+Health Planning	2	4	6	8	8	4
+Finland	0	4	2	8	8	4
+Bosnia-Herzegovina	0	0	0	8	8	4
+Patient Admission	0	4	2	6	8	4
+Telephone	0	8	4	4	8	4
+Caregivers	0	0	2	2	8	4
+Personnel, Hospital	0	0	0	2	8	4
+Animal Experimentation	0	0	12	0	8	4
+Medicine, Traditional	0	2	2	0	8	4
+Genetic Counseling	0	0	0	0	8	4
+Centers for Medicare and Medicaid Services (U.S.)	0	2	10	8	6	4
+Awards and Prizes	0	0	2	8	6	4
+Preventive Health Services	0	2	0	6	6	4
+Conflict (Psychology)	0	0	0	6	6	4
+Czech Republic	0	0	0	6	6	4
+Slovakia	0	0	0	6	6	4
+Hospitals, Public	0	4	4	4	6	4
+Physics	0	2	0	4	6	4
+Hospitalization	0	4	2	2	6	4
+Palpation	0	2	2	2	6	4
+Personality Inventory	0	2	2	2	6	4
+Prognosis	0	2	0	2	6	4
+Anecdotes as Topic	0	0	0	2	6	4
+Berlin	0	0	0	2	6	4
+Heart Arrest	0	0	0	2	6	4
+Reproductive Medicine	0	0	0	2	6	4
+Social Isolation	0	0	0	2	6	4
+Wit and Humor as Topic	0	0	0	2	6	4
+Communicable Disease Control	0	0	0	0	6	4
+Emergency Treatment	0	0	0	0	6	4
+Greek World	0	0	0	0	6	4
+Ophthalmologic Surgical Procedures	0	0	0	0	6	4
+Refugees	0	0	0	0	6	4
+Risk Adjustment	0	0	0	0	6	4
+Students, Health Occupations	0	0	0	0	6	4
+Trauma Centers	0	0	0	0	6	4
+Medicine in Literature	0	6	2	12	4	4
+Public Opinion	0	6	2	10	4	4
+Hypermedia	0	0	0	10	4	4
+Image Processing, Computer-Assisted	0	0	2	8	4	4
+New Hampshire	0	2	4	6	4	4
+Television	0	6	2	6	4	4
+European Continental Ancestry Group	0	2	2	6	4	4
+National Institutes of Health (U.S.)	0	2	2	6	4	4
+Financing, Personal	0	2	0	6	4	4
+Information Management	0	0	0	6	4	4
+Tuberculosis	0	0	0	6	4	4
+Environmental Health	0	2	4	4	4	4
+Ethical Theory	0	0	4	4	4	4
+Government	0	8	2	4	4	4
+Resource Allocation	0	4	2	4	4	4
+Home Care Services	0	2	2	4	4	4
+Civil Rights	0	4	0	4	4	4
+Community Networks	0	0	0	4	4	4
+Tobacco Use Disorder	0	0	0	4	4	4
+Health Priorities	0	2	6	2	4	4
+Decision Trees	0	0	2	2	4	4
+Education, Dental, Graduate	0	0	2	2	4	4
+Patient Selection	0	0	2	2	4	4
+Authorship	0	2	0	2	4	4
+Parents	0	2	0	2	4	4
+Health Status Indicators	0	0	0	2	4	4
+Legislation, Hospital	0	0	0	2	4	4
+Osteoporosis	0	0	0	2	4	4
+Poetry as Topic	0	0	0	2	4	4
+Sexual Dysfunction, Physiological	0	0	0	2	4	4
+Physician Impairment	0	8	6	0	4	4
+Codes of Ethics	0	0	4	0	4	4
+Psychoanalytic Therapy	0	0	4	0	4	4
+Psychological Tests	0	4	2	0	4	4
+Hospital Units	0	2	0	0	4	4
+Imagination	0	2	0	0	4	4
+Religion	0	2	0	0	4	4
+Absenteeism	0	0	0	0	4	4
+Advanced Cardiac Life Support	0	0	0	0	4	4
+Colorectal Neoplasms	0	0	0	0	4	4
+Embryology	0	0	0	0	4	4
+Exercise	0	0	0	0	4	4
+Family Planning Services	0	0	0	0	4	4
+First Aid	0	0	0	0	4	4
+Multiple Sclerosis	0	0	0	0	4	4
+Operating Rooms	0	0	0	0	4	4
+Pathology, Surgical	0	0	0	0	4	4
+Perinatology	0	0	0	0	4	4
+Yugoslavia	0	0	0	0	4	4
+Group Practice	0	2	2	8	2	4
+Hospital Administration	0	4	0	8	2	4
+Death	0	2	0	6	2	4
+Random Allocation	0	14	6	4	2	4
+Books	0	4	0	4	2	4
+Eye Diseases	0	2	0	4	2	4
+Interview, Psychological	0	2	0	4	2	4
+Environmental Medicine	0	0	0	4	2	4
+Intensive Care Units, Neonatal	0	0	0	4	2	4
+Surgery, Oral	0	0	0	4	2	4
+Utilization Review	0	0	0	4	2	4
+Hospitals, Military	0	0	4	2	2	4
+South Dakota	0	0	2	2	2	4
+Suicide	0	2	0	2	2	4
+Personality Assessment	2	0	0	2	2	4
+Feminism	0	0	0	2	2	4
+Head	0	0	0	2	2	4
+Heart Auscultation	0	0	0	2	2	4
+Likelihood Functions	0	0	0	2	2	4
+Meta-Analysis as Topic	0	0	0	2	2	4
+Motor Skills	0	0	0	2	2	4
+Patient Transfer	0	0	0	2	2	4
+Patients' Rooms	0	0	0	2	2	4
+Personnel Turnover	0	0	0	2	2	4
+Moral Obligations	0	2	6	0	2	4
+Hippocratic Oath	0	0	4	0	2	4
+Tape Recording	0	8	2	0	2	4
+Affect	0	6	2	0	2	4
+Insurance, Liability	0	2	2	0	2	4
+Jamaica	0	0	2	0	2	4
+Personality Tests	0	0	2	0	2	4
+Islam	0	4	0	0	2	4
+Human Experimentation	0	2	0	0	2	4
+Pelvis	0	2	0	0	2	4
+Psychophysiologic Disorders	0	2	0	0	2	4
+Acculturation	0	0	0	0	2	4
+Anxiety Disorders	0	0	0	0	2	4
+Blood Glucose	0	0	0	0	2	4
+Centers for Disease Control and Prevention (U.S.)	0	0	0	0	2	4
+Computer Security	0	0	0	0	2	4
+Contraception	0	0	0	0	2	4
+Cross Infection	0	0	0	0	2	4
+Delirium	0	0	0	0	2	4
+Depressive Disorder, Major	0	0	0	0	2	4
+Disease Outbreaks	0	0	0	0	2	4
+Electric Countershock	0	0	0	0	2	4
+Empirical Research	0	0	0	0	2	4
+Faculty, Nursing	0	0	0	0	2	4
+Ghana	0	0	0	0	2	4
+Homeless Persons	0	0	0	0	2	4
+Infection Control	0	0	0	0	2	4
+Marketing	0	0	0	0	2	4
+Medical Missions, Official	0	0	0	0	2	4
+Mothers	0	0	0	0	2	4
+Nonverbal Communication	0	0	0	0	2	4
+Physical Fitness	0	0	0	0	2	4
+Polypharmacy	0	0	0	0	2	4
+Portraits as Topic	0	0	0	0	2	4
+PubMed	0	0	0	0	2	4
+Q-Sort	0	0	0	0	2	4
+Rheumatic Diseases	0	0	0	0	2	4
+Schizophrenic Psychology	0	0	0	0	2	4
+Selection Bias	0	0	0	0	2	4
+Sleep Disorders, Circadian Rhythm	0	0	0	0	2	4
+Translating	0	0	0	0	2	4
+Diagnosis-Related Groups	0	8	8	4	0	4
+Internal-External Control	0	2	2	4	0	4
+Health Expenditures	0	0	2	4	0	4
+Expert Systems	0	2	14	2	0	4
+Behavioral Medicine	0	2	2	2	0	4
+Pharmacists	0	2	2	2	0	4
+Cholecystectomy, Laparoscopic	0	0	2	2	0	4
+Diet	0	2	0	2	0	4
+Romania	0	2	0	2	0	4
+Aggression	0	0	0	2	0	4
+Alzheimer Disease	0	0	0	2	0	4
+Analgesics, Opioid	0	0	0	2	0	4
+Arthroscopy	0	0	0	2	0	4
+Behavior Therapy	0	0	0	2	0	4
+Causality	0	0	0	2	0	4
+Critical Illness	0	0	0	2	0	4
+Low Back Pain	0	0	0	2	0	4
+Natural Language Processing	0	0	0	2	0	4
+Nutrition Assessment	0	0	0	2	0	4
+Seizures	0	0	0	2	0	4
+Latin America	0	26	4	0	0	4
+Radiology Department, Hospital	0	0	4	0	0	4
+Iatrogenic Disease	0	2	2	0	0	4
+Library Services	0	2	2	0	0	4
+Aspirations (Psychology)	0	0	2	0	0	4
+Cardiac Pacing, Artificial	0	0	2	0	0	4
+Catheterization, Peripheral	0	0	2	0	0	4
+Jurisprudence	0	0	2	0	0	4
+Nursing Staff	0	0	2	0	0	4
+Bibliography as Topic	0	8	0	0	0	4
+Group Structure	0	4	0	0	0	4
+Homicide	0	2	0	0	0	4
+Prisoners	0	2	0	0	0	4
+Verbal Behavior	0	2	0	0	0	4
+Actigraphy	0	0	0	0	0	4
+Acupuncture Therapy	0	0	0	0	0	4
+Alcohol-Related Disorders	0	0	0	0	0	4
+Altitude Sickness	0	0	0	0	0	4
+Anthropology, Medical	0	0	0	0	0	4
+Biopsy, Fine-Needle	0	0	0	0	0	4
+Bipolar Disorder	0	0	0	0	0	4
+Brain Concussion	0	0	0	0	0	4
+Cardiac Catheterization	0	0	0	0	0	4
+Cardiovascular Agents	0	0	0	0	0	4
+Catheterization	0	0	0	0	0	4
+Child Rearing	0	0	0	0	0	4
+Chronic Pain	0	0	0	0	0	4
+Climate Change	0	0	0	0	0	4
+Colorectal Surgery	0	0	0	0	0	4
+Community-Based Participatory Research	0	0	0	0	0	4
+Conscience	0	0	0	0	0	4
+Controlled Clinical Trials as Topic	0	0	0	0	0	4
+Countertransference (Psychology)	0	0	0	0	0	4
+Cranial Nerve Diseases	0	0	0	0	0	4
+Data Mining	0	0	0	0	0	4
+Disease Progression	0	0	0	0	0	4
+Drug Administration Schedule	0	0	0	0	0	4
+Dyslexia	0	0	0	0	0	4
+Education, Nursing, Graduate	0	0	0	0	0	4
+Emergency Medical Technicians	0	0	0	0	0	4
+Energy Metabolism	0	0	0	0	0	4
+Feeding Behavior	0	0	0	0	0	4
+General Practice, Dental	0	0	0	0	0	4
+Gynecological Examination	0	0	0	0	0	4
+Happiness	0	0	0	0	0	4
+Head and Neck Neoplasms	0	0	0	0	0	4
+Health Facility Environment	0	0	0	0	0	4
+Heart Murmurs	0	0	0	0	0	4
+Heart Rate	0	0	0	0	0	4
+Herniorrhaphy	0	0	0	0	0	4
+House Calls	0	0	0	0	0	4
+Human Engineering	0	0	0	0	0	4
+Hysterectomy	0	0	0	0	0	4
+Impotence, Vasculogenic	0	0	0	0	0	4
+Individuality	0	0	0	0	0	4
+Information Seeking Behavior	0	0	0	0	0	4
+Interior Design and Furnishings	0	0	0	0	0	4
+Journal Impact Factor	0	0	0	0	0	4
+Lower Extremity	0	0	0	0	0	4
+Mandatory Programs	0	0	0	0	0	4
+Manuscripts as Topic	0	0	0	0	0	4
+Mass Casualty Incidents	0	0	0	0	0	4
+Maternal Welfare	0	0	0	0	0	4
+Medication Therapy Management	0	0	0	0	0	4
+Medicine, Tibetan Traditional	0	0	0	0	0	4
+Memory, Short-Term	0	0	0	0	0	4
+Menopause	0	0	0	0	0	4
+Minicomputers	0	0	0	0	0	4
+Minority Health	0	0	0	0	0	4
+Multilingualism	0	0	0	0	0	4
+Nerve Block	0	0	0	0	0	4
+New Orleans	0	0	0	0	0	4
+Nutritional Status	0	0	0	0	0	4
+Operating Room Information Systems	0	0	0	0	0	4
+Operations Research	0	0	0	0	0	4
+Optic Disk	0	0	0	0	0	4
+Organ Transplantation	0	0	0	0	0	4
+Overweight	0	0	0	0	0	4
+Paintings	0	0	0	0	0	4
+Palliative Medicine	0	0	0	0	0	4
+Pattern Recognition, Visual	0	0	0	0	0	4
+Peripheral Vascular Diseases	0	0	0	0	0	4
+Personal Narratives as Topic	0	0	0	0	0	4
+Phosphodiesterase Inhibitors	0	0	0	0	0	4
+Phytotherapy	0	0	0	0	0	4
+Police	0	0	0	0	0	4
+Preoperative Care	0	0	0	0	0	4
+Privacy	0	0	0	0	0	4
+Public Health Administration	0	0	0	0	0	4
+Radiation Protection	0	0	0	0	0	4
+Radiology, Interventional	0	0	0	0	0	4
+Reaction Time	0	0	0	0	0	4
+Red Cross	0	0	0	0	0	4
+Refractive Surgical Procedures	0	0	0	0	0	4
+Renal Dialysis	0	0	0	0	0	4
+Reproductive Health	0	0	0	0	0	4
+Republic of Korea	0	0	0	0	0	4
+Resuscitation Orders	0	0	0	0	0	4
+Retinal Diseases	0	0	0	0	0	4
+Rhinitis	0	0	0	0	0	4
+Russia (Pre-1917)	0	0	0	0	0	4
+Sample Size	0	0	0	0	0	4
+Serbia	0	0	0	0	0	4
+Sexology	0	0	0	0	0	4
+Shame	0	0	0	0	0	4
+Shock, Septic	0	0	0	0	0	4
+Sleep Medicine Specialty	0	0	0	0	0	4
+Social Skills	0	0	0	0	0	4
+Spinal Diseases	0	0	0	0	0	4
+Test Anxiety Scale	0	0	0	0	0	4
+Test Taking Skills	0	0	0	0	0	4
+Thoracic Diseases	0	0	0	0	0	4
+Tissue Donors	0	0	0	0	0	4
+Tobacco Use Cessation	0	0	0	0	0	4
+Tracheostomy	0	0	0	0	0	4
+Translations	0	0	0	0	0	4
+Transplantation	0	0	0	0	0	4
+Transsexualism	0	0	0	0	0	4
+Voluntary Programs	0	0	0	0	0	4
+Wireless Technology	0	0	0	0	0	4
+Workflow	0	0	0	0	0	4
+Pharmacology	0	4	0	10	24	2
+Computer Literacy	0	0	0	30	18	2
+Ethics, Clinical	0	0	8	0	16	2
+CD-ROM	0	0	0	12	14	2
+Incidence	0	0	0	6	14	2
+Clinical Laboratory Techniques	0	6	2	2	14	2
+Time	0	0	0	2	14	2
+Hospice Care	0	0	4	0	14	2
+Education, Veterinary	0	2	0	0	14	2
+World Health Organization	4	4	6	10	12	2
+Nova Scotia	0	0	2	6	12	2
+Oral Health	0	0	0	0	12	2
+Planning Techniques	0	2	6	10	10	2
+Urban Health Services	0	0	0	8	10	2
+Missouri	0	10	2	4	10	2
+Dementia	0	0	0	4	10	2
+Sampling Studies	0	8	4	2	10	2
+Gender Identity	0	2	2	2	10	2
+Allergy and Immunology	0	0	0	0	10	2
+Epidemiology	0	6	4	12	8	2
+Computer Graphics	0	0	10	10	8	2
+Wales	0	2	6	4	8	2
+Newfoundland and Labrador	0	0	0	2	8	2
+Laboratories	0	4	4	0	8	2
+Reference Standards	0	2	4	0	8	2
+Biomechanical Phenomena	0	0	0	0	8	2
+Disasters	0	0	0	0	8	2
+Mind-Body Relations, Metaphysical	0	0	0	0	8	2
+Computer Communication Networks	0	0	6	46	6	2
+Computer User Training	0	2	4	20	6	2
+Marketing of Health Services	0	2	0	14	6	2
+Louisiana	0	2	4	12	6	2
+Programmed Instruction as Topic	2	16	12	6	6	2
+Literature	0	0	2	6	6	2
+Women	0	8	6	4	6	2
+Decision Making, Organizational	0	0	2	4	6	2
+Psychology, Social	0	8	0	4	6	2
+Diabetes Mellitus, Type 2	0	0	0	4	6	2
+Double-Blind Method	0	0	0	4	6	2
+Intensive Care Units, Pediatric	0	0	0	4	6	2
+Logic	0	0	4	2	6	2
+Social Conditions	0	0	2	2	6	2
+Adolescent Medicine	0	0	0	2	6	2
+Anatomy, Cross-Sectional	0	0	0	2	6	2
+Communicable Diseases	0	0	0	2	6	2
+Geriatric Psychiatry	0	0	0	2	6	2
+Intensive Care, Neonatal	0	0	0	2	6	2
+Knee Joint	0	0	0	2	6	2
+Societies, Scientific	0	0	0	2	6	2
+Swine	0	0	0	2	6	2
+Vaginal Smears	0	0	0	2	6	2
+Vocabulary, Controlled	0	0	0	2	6	2
+Hospital Departments	0	4	8	0	6	2
+Outpatients	0	0	4	0	6	2
+Sex	0	2	0	0	6	2
+West Indies	0	2	0	0	6	2
+Biopsy	2	0	0	0	6	2
+Biomedical Technology	0	0	0	0	6	2
+Brain	0	0	0	0	6	2
+Dental Care for Children	0	0	0	0	6	2
+Drug Utilization Review	0	0	0	0	6	2
+Models, Animal	0	0	0	0	6	2
+Naturopathy	0	0	0	0	6	2
+Obstetrics and Gynecology Department, Hospital	0	0	0	0	6	2
+Radiography, Thoracic	0	0	0	0	6	2
+Sports Medicine	0	0	0	0	6	2
+Financial Management	0	12	2	14	4	2
+Asia	0	6	6	8	4	2
+Hospital Information Systems	0	2	2	6	4	2
+Hospitals, Urban	0	0	2	6	4	2
+Regional Medical Programs	0	2	0	6	4	2
+Age Distribution	0	0	2	4	4	2
+Microsurgery	0	0	2	4	4	2
+Schools, Public Health	0	0	2	4	4	2
+West Virginia	0	0	2	4	4	2
+Work	0	4	2	2	4	2
+Abstracting and Indexing as Topic	0	0	2	2	4	2
+Health Plan Implementation	0	0	2	2	4	2
+Life Change Events	0	0	2	2	4	2
+North Dakota	0	0	2	2	4	2
+Classification	0	2	0	2	4	2
+Midwifery	0	2	0	2	4	2
+Stress, Physiological	0	2	0	2	4	2
+Anti-Asthmatic Agents	0	0	0	2	4	2
+Hygiene	0	0	0	2	4	2
+Investments	0	0	0	2	4	2
+Patient Discharge	0	0	0	2	4	2
+Phantoms, Imaging	0	0	0	2	4	2
+Skin Diseases	0	0	0	2	4	2
+Accidents, Traffic	0	0	2	0	4	2
+Endoscopy, Digestive System	0	0	2	0	4	2
+Libraries	0	0	2	0	4	2
+Students, Dental	0	0	2	0	4	2
+Sex Education	0	6	0	0	4	2
+Burns	0	2	0	0	4	2
+Indiana	0	2	0	0	4	2
+Acupuncture	0	0	0	0	4	2
+Albania	0	0	0	0	4	2
+Analgesics	0	0	0	0	4	2
+Australian Capital Territory	0	0	0	0	4	2
+Automatic Data Processing	0	0	0	0	4	2
+Bangladesh	0	0	0	0	4	2
+Barber Surgeons	0	0	0	0	4	2
+Bone Density	0	0	0	0	4	2
+Colonoscopy	0	0	0	0	4	2
+Conscious Sedation	0	0	0	0	4	2
+Coronary Artery Bypass, Off-Pump	0	0	0	0	4	2
+Cost of Illness	0	0	0	0	4	2
+Delaware	0	0	0	0	4	2
+Dental Caries	0	0	0	0	4	2
+Editorial Policies	0	0	0	0	4	2
+Gastrointestinal Diseases	0	0	0	0	4	2
+Hypoglycemic Agents	0	0	0	0	4	2
+Image Interpretation, Computer-Assisted	0	0	0	0	4	2
+Immunization	0	0	0	0	4	2
+Liver	0	0	0	0	4	2
+Mentally Ill Persons	0	0	0	0	4	2
+Oman	0	0	0	0	4	2
+Papillomavirus Infections	0	0	0	0	4	2
+Paris	0	0	0	0	4	2
+Rats	0	0	0	0	4	2
+Risk Reduction Behavior	0	0	0	0	4	2
+Roman World	0	0	0	0	4	2
+Stress Disorders, Post-Traumatic	0	0	0	0	4	2
+Visual Perception	0	0	0	0	4	2
+World War II	0	0	0	0	4	2
+Microcomputers	0	20	26	16	2	2
+Health Maintenance Organizations	0	8	8	10	2	2
+Alcohol Drinking	0	0	2	8	2	2
+Manitoba	0	0	0	8	2	2
+USSR	0	12	18	6	2	2
+Ethics	0	4	8	6	2	2
+Foundations	0	6	2	6	2	2
+Pacific Islands	0	0	0	6	2	2
+Database Management Systems	0	0	6	4	2	2
+Professional Staff Committees	0	12	4	4	2	2
+Oklahoma	0	6	4	4	2	2
+Tropical Medicine	0	0	2	4	2	2
+Sexually Transmitted Diseases	0	6	0	4	2	2
+Case Management	0	0	0	4	2	2
+Intelligence	0	0	0	4	2	2
+Reimbursement, Incentive	0	0	0	4	2	2
+Social Behavior	0	0	0	4	2	2
+Economics	0	8	2	2	2	2
+Child Development	0	0	2	2	2	2
+Drug Information Services	0	0	2	2	2	2
+Men	0	0	2	2	2	2
+Comprehensive Health Care	0	6	0	2	2	2
+Physicians' Offices	0	4	0	2	2	2
+Poverty Areas	0	4	0	2	2	2
+Psychotherapy, Group	0	4	0	2	2	2
+Clinical Trials as Topic	0	2	0	2	2	2
+Decision Theory	0	2	0	2	2	2
+Fear	0	2	0	2	2	2
+Prisons	0	2	0	2	2	2
+Sri Lanka	0	2	0	2	2	2
+Antidepressive Agents	0	0	0	2	2	2
+Bereavement	0	0	0	2	2	2
+Drug Resistance, Microbial	0	0	0	2	2	2
+Glaucoma	0	0	0	2	2	2
+Hospital Bed Capacity	0	0	0	2	2	2
+Injections, Intra-Articular	0	0	0	2	2	2
+Insurance Coverage	0	0	0	2	2	2
+Monte Carlo Method	0	0	0	2	2	2
+Neoplasm Staging	0	0	0	2	2	2
+Occupational Therapy	0	0	0	2	2	2
+Opioid-Related Disorders	0	0	0	2	2	2
+Schools	0	0	0	2	2	2
+Survivors	0	0	0	2	2	2
+Whistleblowing	0	0	0	2	2	2
+Zimbabwe	0	0	0	2	2	2
+Ethics, Institutional	0	2	4	0	2	2
+Hospices	0	2	4	0	2	2
+Psychoanalysis	0	6	2	0	2	2
+Cancer Care Facilities	0	2	2	0	2	2
+Chemistry, Clinical	0	2	2	0	2	2
+Catalogs as Topic	0	0	2	0	2	2
+Defense Mechanisms	0	0	2	0	2	2
+Institutional Management Teams	0	0	2	0	2	2
+Linguistics	0	0	2	0	2	2
+Mississippi	0	0	2	0	2	2
+Neurologic Examination	0	0	2	0	2	2
+Sensitivity Training Groups	0	0	2	0	2	2
+Aspirin	0	2	0	0	2	2
+Association	0	2	0	0	2	2
+Cues	0	2	0	0	2	2
+Drug Interactions	0	2	0	0	2	2
+Geriatric Nursing	0	2	0	0	2	2
+Germany, East	0	2	0	0	2	2
+Health Planning Guidelines	0	2	0	0	2	2
+Hospital Shared Services	0	2	0	0	2	2
+Iraq	0	2	0	0	2	2
+Rectal Neoplasms	0	2	0	0	2	2
+Shoulder	0	2	0	0	2	2
+Vaccination	0	2	0	0	2	2
+Accidental Falls	0	0	0	0	2	2
+Agriculture	0	0	0	0	2	2
+Antipsychotic Agents	0	0	0	0	2	2
+Athletic Injuries	0	0	0	0	2	2
+Behavior, Addictive	0	0	0	0	2	2
+Biliary Tract Surgical Procedures	0	0	0	0	2	2
+Biological Evolution	0	0	0	0	2	2
+Blood Specimen Collection	0	0	0	0	2	2
+Body Mass Index	0	0	0	0	2	2
+Brachial Plexus	0	0	0	0	2	2
+Calibration	0	0	0	0	2	2
+Child Advocacy	0	0	0	0	2	2
+Cognitive Therapy	0	0	0	0	2	2
+Contracts	0	0	0	0	2	2
+Craniotomy	0	0	0	0	2	2
+Deafness	0	0	0	0	2	2
+Defibrillators	0	0	0	0	2	2
+Delivery, Obstetric	0	0	0	0	2	2
+Democracy	0	0	0	0	2	2
+Dose-Response Relationship, Drug	0	0	0	0	2	2
+Drug Therapy, Combination	0	0	0	0	2	2
+Employee Incentive Plans	0	0	0	0	2	2
+Ethics Committees	0	0	0	0	2	2
+Federal Government	0	0	0	0	2	2
+Fuzzy Logic	0	0	0	0	2	2
+Gastrointestinal Hemorrhage	0	0	0	0	2	2
+Genomics	0	0	0	0	2	2
+Health Education, Dental	0	0	0	0	2	2
+Health Educators	0	0	0	0	2	2
+Hospitals, Private	0	0	0	0	2	2
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0	0	0	0	2	2
+Hypersensitivity	0	0	0	0	2	2
+Infant Mortality	0	0	0	0	2	2
+Inflammatory Bowel Diseases	0	0	0	0	2	2
+Insulin	0	0	0	0	2	2
+Insurance Claim Review	0	0	0	0	2	2
+Intergenerational Relations	0	0	0	0	2	2
+Joint Commission on Accreditation of Healthcare Organizations	0	0	0	0	2	2
+Laryngoscopy	0	0	0	0	2	2
+Man-Machine Systems	0	0	0	0	2	2
+Mental Competency	0	0	0	0	2	2
+Molecular Biology	0	0	0	0	2	2
+Mood Disorders	0	0	0	0	2	2
+Multilevel Analysis	0	0	0	0	2	2
+Neuropsychological Tests	0	0	0	0	2	2
+Neuropsychology	0	0	0	0	2	2
+Nuclear Medicine	0	0	0	0	2	2
+Nurse's Role	0	0	0	0	2	2
+Nursing Staff, Hospital	0	0	0	0	2	2
+Nutritional Requirements	0	0	0	0	2	2
+Papillomaviridae	0	0	0	0	2	2
+Paranasal Sinuses	0	0	0	0	2	2
+Pattern Recognition, Physiological	0	0	0	0	2	2
+Pelvic Floor	0	0	0	0	2	2
+Perioperative Care	0	0	0	0	2	2
+Pregnancy Complications	0	0	0	0	2	2
+Psychology, Clinical	0	0	0	0	2	2
+Reinforcement (Psychology)	0	0	0	0	2	2
+Reproduction	0	0	0	0	2	2
+Researcher-Subject Relations	0	0	0	0	2	2
+Rome	0	0	0	0	2	2
+Schools, Veterinary	0	0	0	0	2	2
+Scientific Misconduct	0	0	0	0	2	2
+Self-Help Groups	0	0	0	0	2	2
+Sexual Dysfunctions, Psychological	0	0	0	0	2	2
+Skin Ulcer	0	0	0	0	2	2
+Social Marketing	0	0	0	0	2	2
+Stents	0	0	0	0	2	2
+Surgery, Computer-Assisted	0	0	0	0	2	2
+Survival Analysis	0	0	0	0	2	2
+Triglycerides	0	0	0	0	2	2
+Veterans	0	0	0	0	2	2
+Wound Healing	0	0	0	0	2	2
+Western World	0	0	2	8	0	2
+Acquired Immunodeficiency Syndrome	0	2	8	6	0	2
+Insurance, Health	0	10	0	6	0	2
+Education, Nursing, Continuing	0	6	0	6	0	2
+Scandinavian and Nordic Countries	0	2	4	4	0	2
+Brain Injuries	0	0	0	4	0	2
+Cognitive Science	0	0	0	4	0	2
+Transportation of Patients	0	0	0	4	0	2
+Ethical Analysis	0	4	6	2	0	2
+Biology	0	4	4	2	0	2
+Capital Financing	0	0	4	2	0	2
+Disability Evaluation	0	0	4	2	0	2
+Regional Health Planning	0	2	2	2	0	2
+Cerebrovascular Disorders	0	0	2	2	0	2
+Character	0	0	2	2	0	2
+Cholesterol	0	0	2	2	0	2
+Multi-Institutional Systems	0	0	2	2	0	2
+Refusal to Treat	0	0	2	2	0	2
+Women's Rights	0	0	2	2	0	2
+Chemistry	0	6	0	2	0	2
+Medical Records, Problem-Oriented	0	6	0	2	0	2
+Aerospace Medicine	0	4	0	2	0	2
+African Continental Ancestry Group	0	2	0	2	0	2
+Physical Therapy Modalities	0	2	0	2	0	2
+South America	0	2	0	2	0	2
+Technology Assessment, Biomedical	0	2	0	2	0	2
+Urinary Tract Infections	0	2	0	2	0	2
+Vocational Education	0	2	0	2	0	2
+Antineoplastic Agents	0	0	0	2	0	2
+Armenia	0	0	0	2	0	2
+Biopsy, Needle	0	0	0	2	0	2
+Blood Pressure Determination	0	0	0	2	0	2
+Clothing	0	0	0	2	0	2
+Discriminant Analysis	0	0	0	2	0	2
+Drug and Narcotic Control	0	0	0	2	0	2
+Human Development	0	0	0	2	0	2
+Kidney Diseases	0	0	0	2	0	2
+Leisure Activities	0	0	0	2	0	2
+Lung Neoplasms	0	0	0	2	0	2
+Medical Informatics Computing	0	0	0	2	0	2
+Naval Medicine	0	0	0	2	0	2
+Northwestern United States	0	0	0	2	0	2
+Ownership	0	0	0	2	0	2
+Pamphlets	0	0	0	2	0	2
+Parenting	0	0	0	2	0	2
+Reimbursement, Disproportionate Share	0	0	0	2	0	2
+Relative Value Scales	0	0	0	2	0	2
+Stethoscopes	0	0	0	2	0	2
+Technology Transfer	0	0	0	2	0	2
+Videodisc Recording	0	4	10	0	0	2
+Contract Services	0	4	6	0	0	2
+Patient Care Planning	0	14	4	0	0	2
+Ukraine	0	4	4	0	0	2
+Homosexuality	0	2	2	0	0	2
+Cameroon	0	0	2	0	0	2
+Compact Disks	0	0	2	0	0	2
+Electrophysiology	0	0	2	0	0	2
+Eligibility Determination	0	0	2	0	0	2
+Ethical Review	0	0	2	0	0	2
+Exhibits as Topic	0	0	2	0	0	2
+Family Health	0	0	2	0	0	2
+Heart	0	0	2	0	0	2
+New Brunswick	0	0	2	0	0	2
+Germany, West	0	12	0	0	0	2
+Marriage	0	8	0	0	0	2
+Schools, Health Occupations	0	8	0	0	0	2
+Heart Defects, Congenital	0	6	0	0	0	2
+Community Health Workers	0	4	0	0	0	2
+Acid-Base Equilibrium	0	2	0	0	0	2
+Affective Symptoms	0	2	0	0	0	2
+Anesthetics	0	2	0	0	0	2
+Anthropometry	0	2	0	0	0	2
+Botany	0	2	0	0	0	2
+Breast	0	2	0	0	0	2
+Constitution and Bylaws	0	2	0	0	0	2
+Diagnostic Tests, Routine	0	2	0	0	0	2
+Drug-Related Side Effects and Adverse Reactions	0	2	0	0	0	2
+Fiji	0	2	0	0	0	2
+Fluorides	0	2	0	0	0	2
+Imitative Behavior	0	2	0	0	0	2
+Muscle Relaxants, Central	0	2	0	0	0	2
+Nursing Care	0	2	0	0	0	2
+Occupations	0	2	0	0	0	2
+Pattern Recognition, Automated	0	2	0	0	0	2
+Political Systems	0	2	0	0	0	2
+Race Relations	0	2	0	0	0	2
+Radiography	0	2	0	0	0	2
+Self Disclosure	0	2	0	0	0	2
+Students, Pharmacy	0	2	0	0	0	2
+Suicide, Attempted	0	2	0	0	0	2
+Surgicenters	0	2	0	0	0	2
+Transfer (Psychology)	0	2	0	0	0	2
+Absorptiometry, Photon	0	0	0	0	0	2
+Acetabulum	0	0	0	0	0	2
+Acromegaly	0	0	0	0	0	2
+Adaptation, Physiological	0	0	0	0	0	2
+Adipokines	0	0	0	0	0	2
+Administration, Inhalation	0	0	0	0	0	2
+Advance Care Planning	0	0	0	0	0	2
+Adverse Drug Reaction Reporting Systems	0	0	0	0	0	2
+Afghan Campaign 2001-	0	0	0	0	0	2
+Africa, Eastern	0	0	0	0	0	2
+Africa, Western	0	0	0	0	0	2
+Ageism	0	0	0	0	0	2
+Agonistic Behavior	0	0	0	0	0	2
+Allergens	0	0	0	0	0	2
+Almshouses	0	0	0	0	0	2
+Altitude	0	0	0	0	0	2
+Ambulances	0	0	0	0	0	2
+American Recovery and Reinvestment Act	0	0	0	0	0	2
+Amputation	0	0	0	0	0	2
+Amputees	0	0	0	0	0	2
+Amyotrophic Lateral Sclerosis	0	0	0	0	0	2
+Analgesics, Non-Narcotic	0	0	0	0	0	2
+Anaphylaxis	0	0	0	0	0	2
+Anastomosis, Surgical	0	0	0	0	0	2
+Andrology	0	0	0	0	0	2
+Anemia, Iron-Deficiency	0	0	0	0	0	2
+Anemia, Sickle Cell	0	0	0	0	0	2
+Anesthesia, Dental	0	0	0	0	0	2
+Anesthetics, Inhalation	0	0	0	0	0	2
+Aneurysm, Ruptured	0	0	0	0	0	2
+Angola	0	0	0	0	0	2
+Ankle Joint	0	0	0	0	0	2
+Annual Reports as Topic	0	0	0	0	0	2
+Anterior Cruciate Ligament	0	0	0	0	0	2
+Anterior Wall Myocardial Infarction	0	0	0	0	0	2
+Antibodies, Monoclonal	0	0	0	0	0	2
+Anticoagulants	0	0	0	0	0	2
+Antiemetics	0	0	0	0	0	2
+Antimanic Agents	0	0	0	0	0	2
+Antitubercular Agents	0	0	0	0	0	2
+Aorta	0	0	0	0	0	2
+Aorta, Abdominal	0	0	0	0	0	2
+Aortic Diseases	0	0	0	0	0	2
+Aortic Rupture	0	0	0	0	0	2
+Aphorisms and Proverbs as Topic	0	0	0	0	0	2
+Arm	0	0	0	0	0	2
+Art Therapy	0	0	0	0	0	2
+Arthroplasty, Replacement, Knee	0	0	0	0	0	2
+Asepsis	0	0	0	0	0	2
+Asperger Syndrome	0	0	0	0	0	2
+Asphyxia Neonatorum	0	0	0	0	0	2
+Atlanto-Axial Joint	0	0	0	0	0	2
+Atrial Fibrillation	0	0	0	0	0	2
+Auditory Perception	0	0	0	0	0	2
+Automobile Driver Examination	0	0	0	0	0	2
+Automobiles	0	0	0	0	0	2
+Autonomic Nervous System	0	0	0	0	0	2
+Axis	0	0	0	0	0	2
+Baclofen	0	0	0	0	0	2
+Balneology	0	0	0	0	0	2
+Bariatric Surgery	0	0	0	0	0	2
+Basal Ganglia	0	0	0	0	0	2
+Behaviorism	0	0	0	0	0	2
+Biodiversity	0	0	0	0	0	2
+Biological Products	0	0	0	0	0	2
+Biomedical Engineering	0	0	0	0	0	2
+Biotechnology	0	0	0	0	0	2
+Blast Injuries	0	0	0	0	0	2
+Blood Pressure Monitoring, Ambulatory	0	0	0	0	0	2
+Blood Substitutes	0	0	0	0	0	2
+Blood Vessel Prosthesis Implantation	0	0	0	0	0	2
+Bone Screws	0	0	0	0	0	2
+Borderline Personality Disorder	0	0	0	0	0	2
+Boredom	0	0	0	0	0	2
+Botswana	0	0	0	0	0	2
+Botulinum Toxins	0	0	0	0	0	2
+Botulinum Toxins, Type A	0	0	0	0	0	2
+Brain Edema	0	0	0	0	0	2
+Breakthrough Pain	0	0	0	0	0	2
+Brief Psychiatric Rating Scale	0	0	0	0	0	2
+Buddhism	0	0	0	0	0	2
+Buprenorphine	0	0	0	0	0	2
+Burial	0	0	0	0	0	2
+Cambodia	0	0	0	0	0	2
+Cannabinoids	0	0	0	0	0	2
+Capsulorhexis	0	0	0	0	0	2
+Carcinoma, Squamous Cell	0	0	0	0	0	2
+Cardia	0	0	0	0	0	2
+Cardiac Resynchronization Therapy	0	0	0	0	0	2
+Cardiopulmonary Bypass	0	0	0	0	0	2
+Cariostatic Agents	0	0	0	0	0	2
+Carpal Tunnel Syndrome	0	0	0	0	0	2
+Cataract Extraction	0	0	0	0	0	2
+Catheter Ablation	0	0	0	0	0	2
+Catheterization, Swan-Ganz	0	0	0	0	0	2
+Cell- and Tissue-Based Therapy	0	0	0	0	0	2
+Cervical Atlas	0	0	0	0	0	2
+Chest Tubes	0	0	0	0	0	2
+Child Behavior Disorders	0	0	0	0	0	2
+Cholecystectomy	0	0	0	0	0	2
+Circadian Rhythm	0	0	0	0	0	2
+Cities	0	0	0	0	0	2
+Civil Defense	0	0	0	0	0	2
+Clinical Governance	0	0	0	0	0	2
+Commission on Professional and Hospital Activities	0	0	0	0	0	2
+Commitment of Mentally Ill	0	0	0	0	0	2
+Commodification	0	0	0	0	0	2
+Common Cold	0	0	0	0	0	2
+Comparative Effectiveness Research	0	0	0	0	0	2
+Compliance	0	0	0	0	0	2
+Computational Biology	0	0	0	0	0	2
+Congenital Abnormalities	0	0	0	0	0	2
+Constipation	0	0	0	0	0	2
+Consumer Advocacy	0	0	0	0	0	2
+Continuous Positive Airway Pressure	0	0	0	0	0	2
+Contraceptives, Oral	0	0	0	0	0	2
+Controlled Before-After Studies	0	0	0	0	0	2
+Cornea	0	0	0	0	0	2
+Corneal Diseases	0	0	0	0	0	2
+Coronary Angiography	0	0	0	0	0	2
+Correspondence as Topic	0	0	0	0	0	2
+Cosmetic Techniques	0	0	0	0	0	2
+Cranial Irradiation	0	0	0	0	0	2
+Crimean War	0	0	0	0	0	2
+Critical Care Nursing	0	0	0	0	0	2
+Crowding	0	0	0	0	0	2
+Crowdsourcing	0	0	0	0	0	2
+Cyclonic Storms	0	0	0	0	0	2
+Cyprus	0	0	0	0	0	2
+Cystic Fibrosis	0	0	0	0	0	2
+Cytodiagnosis	0	0	0	0	0	2
+Death, Sudden, Cardiac	0	0	0	0	0	2
+Deception	0	0	0	0	0	2
+Defibrillators, Implantable	0	0	0	0	0	2
+Delegation, Professional	0	0	0	0	0	2
+Democratic People's Republic of Korea	0	0	0	0	0	2
+Dental Instruments	0	0	0	0	0	2
+Dentifrices	0	0	0	0	0	2
+Depression, Postpartum	0	0	0	0	0	2
+Dermatitis, Atopic	0	0	0	0	0	2
+Dermatologic Surgical Procedures	0	0	0	0	0	2
+Developmental Disabilities	0	0	0	0	0	2
+Device Approval	0	0	0	0	0	2
+Diabetes Complications	0	0	0	0	0	2
+Diabetic Retinopathy	0	0	0	0	0	2
+Diagnosis, Oral	0	0	0	0	0	2
+Diagnostic and Statistical Manual of Mental Disorders	0	0	0	0	0	2
+Dilatation and Curettage	0	0	0	0	0	2
+Directive Counseling	0	0	0	0	0	2
+Directly Observed Therapy	0	0	0	0	0	2
+Disorders of Excessive Somnolence	0	0	0	0	0	2
+Dissent and Disputes	0	0	0	0	0	2
+Djibouti	0	0	0	0	0	2
+Drainage	0	0	0	0	0	2
+Drug Compounding	0	0	0	0	0	2
+Drug Labeling	0	0	0	0	0	2
+Drug Overdose	0	0	0	0	0	2
+Drug Therapy, Computer-Assisted	0	0	0	0	0	2
+Ductus Arteriosus	0	0	0	0	0	2
+Durable Medical Equipment	0	0	0	0	0	2
+Earthquakes	0	0	0	0	0	2
+Eating	0	0	0	0	0	2
+Ecuador	0	0	0	0	0	2
+Education, Professional, Retraining	0	0	0	0	0	2
+Education, Special	0	0	0	0	0	2
+Elastomers	0	0	0	0	0	2
+Elbow Joint	0	0	0	0	0	2
+Electric Conductivity	0	0	0	0	0	2
+Electrochemotherapy	0	0	0	0	0	2
+Electrodes	0	0	0	0	0	2
+Electromagnetic Fields	0	0	0	0	0	2
+Electroporation	0	0	0	0	0	2
+Empiricism	0	0	0	0	0	2
+Encephalitis	0	0	0	0	0	2
+Endarterectomy, Carotid	0	0	0	0	0	2
+Endemic Diseases	0	0	0	0	0	2
+Endocrinology	0	0	0	0	0	2
+Endosonography	0	0	0	0	0	2
+Environmental Pollution	0	0	0	0	0	2
+Epilepsy, Tonic-Clonic	0	0	0	0	0	2
+Equipment Safety	0	0	0	0	0	2
+Eritrea	0	0	0	0	0	2
+Erotica	0	0	0	0	0	2
+Esophageal Diseases	0	0	0	0	0	2
+Esophagoscopy	0	0	0	0	0	2
+Estrogen Replacement Therapy	0	0	0	0	0	2
+Ethanol	0	0	0	0	0	2
+Ether	0	0	0	0	0	2
+Eugenics	0	0	0	0	0	2
+Exercise Therapy	0	0	0	0	0	2
+Facial Expression	0	0	0	0	0	2
+Fallopian Tubes	0	0	0	0	0	2
+Fatigue Syndrome, Chronic	0	0	0	0	0	2
+Fetal Alcohol Spectrum Disorders	0	0	0	0	0	2
+Fetal Diseases	0	0	0	0	0	2
+Fires	0	0	0	0	0	2
+Fluorosis, Dental	0	0	0	0	0	2
+Food Habits	0	0	0	0	0	2
+Food Hypersensitivity	0	0	0	0	0	2
+Fracture Fixation	0	0	0	0	0	2
+Fractures, Bone	0	0	0	0	0	2
+French Revolution	0	0	0	0	0	2
+Friends	0	0	0	0	0	2
+Frontotemporal Dementia	0	0	0	0	0	2
+Frustration	0	0	0	0	0	2
+Gait	0	0	0	0	0	2
+Gait Disorders, Neurologic	0	0	0	0	0	2
+Game Theory	0	0	0	0	0	2
+Gastric Bypass	0	0	0	0	0	2
+Genetic Association Studies	0	0	0	0	0	2
+Genetic Diseases, Inborn	0	0	0	0	0	2
+Genotype	0	0	0	0	0	2
+Genotyping Techniques	0	0	0	0	0	2
+Geographic Information Systems	0	0	0	0	0	2
+Georgia (Republic)	0	0	0	0	0	2
+Gestures	0	0	0	0	0	2
+Ghrelin	0	0	0	0	0	2
+Glucocorticoids	0	0	0	0	0	2
+Gonorrhea	0	0	0	0	0	2
+Growth Charts	0	0	0	0	0	2
+Guam	0	0	0	0	0	2
+Guilt	0	0	0	0	0	2
+Guinea-Bissau	0	0	0	0	0	2
+Gynecologic Surgical Procedures	0	0	0	0	0	2
+Haiti	0	0	0	0	0	2
+Hand Disinfection	0	0	0	0	0	2
+Handwriting	0	0	0	0	0	2
+Headache Disorders, Primary	0	0	0	0	0	2
+Health Communication	0	0	0	0	0	2
+Health Facility Administration	0	0	0	0	0	2
+Health Impact Assessment	0	0	0	0	0	2
+Health Information Management	0	0	0	0	0	2
+Health Physics	0	0	0	0	0	2
+Health Resorts	0	0	0	0	0	2
+Hemorrhage	0	0	0	0	0	2
+Hemorrhoids	0	0	0	0	0	2
+Herbal Medicine	0	0	0	0	0	2
+Heterosexuality	0	0	0	0	0	2
+Histamine Antagonists	0	0	0	0	0	2
+History of Dentistry	0	0	0	0	0	2
+Holocaust	0	0	0	0	0	2
+Hospital Charges	0	0	0	0	0	2
+Hospital Communication Systems	0	0	0	0	0	2
+Hospital Medicine	0	0	0	0	0	2
+Hospitals, High-Volume	0	0	0	0	0	2
+Hospitals, Maternity	0	0	0	0	0	2
+Hot Flashes	0	0	0	0	0	2
+Hotlines	0	0	0	0	0	2
+Human Body	0	0	0	0	0	2
+Human Characteristics	0	0	0	0	0	2
+Human Rights Abuses	0	0	0	0	0	2
+Hyperglycemia	0	0	0	0	0	2
+Hypertension, Pulmonary	0	0	0	0	0	2
+Hypertriglyceridemia	0	0	0	0	0	2
+Hypoglycemia	0	0	0	0	0	2
+Hypokalemia	0	0	0	0	0	2
+Hypotension	0	0	0	0	0	2
+Hysterectomy, Vaginal	0	0	0	0	0	2
+Inappropriate Prescribing	0	0	0	0	0	2
+Independent Living	0	0	0	0	0	2
+Indian Ocean	0	0	0	0	0	2
+Indian Ocean Islands	0	0	0	0	0	2
+Infant, Premature	0	0	0	0	0	2
+Infant, Premature, Diseases	0	0	0	0	0	2
+Infectious Disease Medicine	0	0	0	0	0	2
+Influenza A Virus, H1N1 Subtype	0	0	0	0	0	2
+Influenza A Virus, H5N1 Subtype	0	0	0	0	0	2
+Influenza, Human	0	0	0	0	0	2
+Information Literacy	0	0	0	0	0	2
+Infusions, Intravenous	0	0	0	0	0	2
+Injections	0	0	0	0	0	2
+Injections, Intra-Arterial	0	0	0	0	0	2
+Injections, Intravenous	0	0	0	0	0	2
+Injections, Spinal	0	0	0	0	0	2
+Insurance Carriers	0	0	0	0	0	2
+Intercostal Nerves	0	0	0	0	0	2
+Intestine, Small	0	0	0	0	0	2
+Intracranial Aneurysm	0	0	0	0	0	2
+Intubation, Gastrointestinal	0	0	0	0	0	2
+Intussusception	0	0	0	0	0	2
+Inventions	0	0	0	0	0	2
+Iraq War, 2003-2011	0	0	0	0	0	2
+Irritable Bowel Syndrome	0	0	0	0	0	2
+Joints	0	0	0	0	0	2
+Jordan	0	0	0	0	0	2
+Journalism, Dental	0	0	0	0	0	2
+Keratomileusis, Laser In Situ	0	0	0	0	0	2
+Keratosis, Seborrheic	0	0	0	0	0	2
+Kidney Failure, Chronic	0	0	0	0	0	2
+Knowledge Management	0	0	0	0	0	2
+Labor Unions	0	0	0	0	0	2
+Lacerations	0	0	0	0	0	2
+Laparoscopes	0	0	0	0	0	2
+Laryngeal Muscles	0	0	0	0	0	2
+Laser Coagulation	0	0	0	0	0	2
+Laser Therapy	0	0	0	0	0	2
+Lasers, Excimer	0	0	0	0	0	2
+Law Enforcement	0	0	0	0	0	2
+Leptin	0	0	0	0	0	2
+Library Associations	0	0	0	0	0	2
+Libya	0	0	0	0	0	2
+Life Expectancy	0	0	0	0	0	2
+Location Directories and Signs	0	0	0	0	0	2
+Lumbar Vertebrae	0	0	0	0	0	2
+Lymph Nodes	0	0	0	0	0	2
+Lymphoma	0	0	0	0	0	2
+Machiavellianism	0	0	0	0	0	2
+Magnetic Resonance Imaging, Cine	0	0	0	0	0	2
+Maine	0	0	0	0	0	2
+Mali	0	0	0	0	0	2
+Mammaplasty	0	0	0	0	0	2
+Manometry	0	0	0	0	0	2
+Mass Media	0	0	0	0	0	2
+Mastectomy	0	0	0	0	0	2
+Mastoid	0	0	0	0	0	2
+Mathematical Computing	0	0	0	0	0	2
+Medical Marijuana	0	0	0	0	0	2
+Medical Order Entry Systems	0	0	0	0	0	2
+Medicine, Korean Traditional	0	0	0	0	0	2
+Meditation	0	0	0	0	0	2
+Mediterranean Region	0	0	0	0	0	2
+Memory Disorders	0	0	0	0	0	2
+Meningeal Neoplasms	0	0	0	0	0	2
+Meningioma	0	0	0	0	0	2
+Metabolic Syndrome X	0	0	0	0	0	2
+Metabolome	0	0	0	0	0	2
+Metaphysics	0	0	0	0	0	2
+Mice	0	0	0	0	0	2
+Military Facilities	0	0	0	0	0	2
+Mobile Health Units	0	0	0	0	0	2
+Models, Cardiovascular	0	0	0	0	0	2
+Mohs Surgery	0	0	0	0	0	2
+Motivational Interviewing	0	0	0	0	0	2
+Mouth Neoplasms	0	0	0	0	0	2
+Movement	0	0	0	0	0	2
+Multicenter Studies as Topic	0	0	0	0	0	2
+Muscle Spasticity	0	0	0	0	0	2
+Musculoskeletal Abnormalities	0	0	0	0	0	2
+Myocardial Contraction	0	0	0	0	0	2
+Nails	0	0	0	0	0	2
+Narcotic Antagonists	0	0	0	0	0	2
+Neoplasm Metastasis	0	0	0	0	0	2
+Netherlands Antilles	0	0	0	0	0	2
+Neurobiology	0	0	0	0	0	2
+Neuroimaging	0	0	0	0	0	2
+Neuromuscular Diseases	0	0	0	0	0	2
+Nicotine	0	0	0	0	0	2
+Nurse Anesthetists	0	0	0	0	0	2
+Nurse Midwives	0	0	0	0	0	2
+Nurses, Community Health	0	0	0	0	0	2
+Nursing Evaluation Research	0	0	0	0	0	2
+Nutritional Support	0	0	0	0	0	2
+Obstetric Surgical Procedures	0	0	0	0	0	2
+Oceania	0	0	0	0	0	2
+Ophthalmoscopes	0	0	0	0	0	2
+Ophthalmoscopy	0	0	0	0	0	2
+Opiate Substitution Treatment	0	0	0	0	0	2
+Optic Nerve Diseases	0	0	0	0	0	2
+Organ Preservation	0	0	0	0	0	2
+Orientation	0	0	0	0	0	2
+Otoscopy	0	0	0	0	0	2
+Pacemaker, Artificial	0	0	0	0	0	2
+Pacifiers	0	0	0	0	0	2
+Pancreas	0	0	0	0	0	2
+Pandemics	0	0	0	0	0	2
+Papillomavirus Vaccines	0	0	0	0	0	2
+Parasitology	0	0	0	0	0	2
+Parkinson Disease	0	0	0	0	0	2
+Pathology, Molecular	0	0	0	0	0	2
+Patient Outcome Assessment	0	0	0	0	0	2
+Pediatric Assistants	0	0	0	0	0	2
+Pediatric Obesity	0	0	0	0	0	2
+Penicillin V	0	0	0	0	0	2
+Percutaneous Coronary Intervention	0	0	0	0	0	2
+Performance Anxiety	0	0	0	0	0	2
+Pericardiocentesis	0	0	0	0	0	2
+Perinatal Care	0	0	0	0	0	2
+Personnel Delegation	0	0	0	0	0	2
+Personnel Staffing and Scheduling Information Systems	0	0	0	0	0	2
+Pharmaceutical Services	0	0	0	0	0	2
+Pharmacogenetics	0	0	0	0	0	2
+Pharmacovigilance	0	0	0	0	0	2
+Philately	0	0	0	0	0	2
+Philology	0	0	0	0	0	2
+Photochemotherapy	0	0	0	0	0	2
+Physiognomy	0	0	0	0	0	2
+Piperazines	0	0	0	0	0	2
+Plants	0	0	0	0	0	2
+Platelet Aggregation Inhibitors	0	0	0	0	0	2
+Pneumonectomy	0	0	0	0	0	2
+Pneumothorax	0	0	0	0	0	2
+Policy	0	0	0	0	0	2
+Polymorphism, Single Nucleotide	0	0	0	0	0	2
+Population Density	0	0	0	0	0	2
+Population Groups	0	0	0	0	0	2
+Posters as Topic	0	0	0	0	0	2
+Postoperative Nausea and Vomiting	0	0	0	0	0	2
+Practice Valuation and Purchase	0	0	0	0	0	2
+Pregnancy Trimester, Second	0	0	0	0	0	2
+Premature Ejaculation	0	0	0	0	0	2
+Prepaid Health Plans	0	0	0	0	0	2
+Probability Theory	0	0	0	0	0	2
+Prostheses and Implants	0	0	0	0	0	2
+Psychiatric Department, Hospital	0	0	0	0	0	2
+Psycholinguistics	0	0	0	0	0	2
+Psychotherapy, Brief	0	0	0	0	0	2
+Psychotherapy, Psychodynamic	0	0	0	0	0	2
+Puerperal Infection	0	0	0	0	0	2
+Punctures	0	0	0	0	0	2
+Purines	0	0	0	0	0	2
+Quality-Adjusted Life Years	0	0	0	0	0	2
+Rabbits	0	0	0	0	0	2
+Racism	0	0	0	0	0	2
+Radio	0	0	0	0	0	2
+Radio Frequency Identification Device	0	0	0	0	0	2
+Radioactive Fallout	0	0	0	0	0	2
+Radiography, Abdominal	0	0	0	0	0	2
+Radiosurgery	0	0	0	0	0	2
+Radiotherapy Planning, Computer-Assisted	0	0	0	0	0	2
+Radiotherapy, Adjuvant	0	0	0	0	0	2
+Rare Diseases	0	0	0	0	0	2
+Recovery of Function	0	0	0	0	0	2
+Reference Values	0	0	0	0	0	2
+Regenerative Medicine	0	0	0	0	0	2
+Regression (Psychology)	0	0	0	0	0	2
+Religion and Psychology	0	0	0	0	0	2
+Respiratory Insufficiency	0	0	0	0	0	2
+Robotic Surgical Procedures	0	0	0	0	0	2
+Safety-net Providers	0	0	0	0	0	2
+Schools, Pharmacy	0	0	0	0	0	2
+Scleral Buckling	0	0	0	0	0	2
+Scoliosis	0	0	0	0	0	2
+Selection, Genetic	0	0	0	0	0	2
+Sentinel Lymph Node Biopsy	0	0	0	0	0	2
+Serotonin Plasma Membrane Transport Proteins	0	0	0	0	0	2
+Sex Offenses	0	0	0	0	0	2
+Sex Ratio	0	0	0	0	0	2
+Sexual Partners	0	0	0	0	0	2
+Sheep	0	0	0	0	0	2
+Shock, Cardiogenic	0	0	0	0	0	2
+Short Bowel Syndrome	0	0	0	0	0	2
+Shoulder Joint	0	0	0	0	0	2
+Sick Leave	0	0	0	0	0	2
+Sign Language	0	0	0	0	0	2
+Skin	0	0	0	0	0	2
+Skin Diseases, Parasitic	0	0	0	0	0	2
+Sleep Stages	0	0	0	0	0	2
+Social Determinants of Health	0	0	0	0	0	2
+Social Discrimination	0	0	0	0	0	2
+Social Distance	0	0	0	0	0	2
+Social Stigma	0	0	0	0	0	2
+Somalia	0	0	0	0	0	2
+Spatial Analysis	0	0	0	0	0	2
+Spinal Dysraphism	0	0	0	0	0	2
+Spinal Fusion	0	0	0	0	0	2
+Spine	0	0	0	0	0	2
+Sports	0	0	0	0	0	2
+Spouses	0	0	0	0	0	2
+Standard of Care	0	0	0	0	0	2
+Static Electricity	0	0	0	0	0	2
+Stellate Ganglion	0	0	0	0	0	2
+Stochastic Processes	0	0	0	0	0	2
+Substance Abuse Treatment Centers	0	0	0	0	0	2
+Sulfones	0	0	0	0	0	2
+Supine Position	0	0	0	0	0	2
+Surgeons	0	0	0	0	0	2
+Surgical Equipment	0	0	0	0	0	2
+Surgical Flaps	0	0	0	0	0	2
+Surgical Wound Infection	0	0	0	0	0	2
+Syndrome	0	0	0	0	0	2
+Tanzania	0	0	0	0	0	2
+Tattooing	0	0	0	0	0	2
+Telepathology	0	0	0	0	0	2
+Terrorism	0	0	0	0	0	2
+Therapies, Investigational	0	0	0	0	0	2
+Thoracostomy	0	0	0	0	0	2
+Thoracotomy	0	0	0	0	0	2
+Thrombosis	0	0	0	0	0	2
+Thyroidectomy	0	0	0	0	0	2
+Tibial Fractures	0	0	0	0	0	2
+Tobacco Smoke Pollution	0	0	0	0	0	2
+Tooth Extraction	0	0	0	0	0	2
+Tourette Syndrome	0	0	0	0	0	2
+Transactional Analysis	0	0	0	0	0	2
+Transcaucasia	0	0	0	0	0	2
+Transfusion Medicine	0	0	0	0	0	2
+Transgendered Persons	0	0	0	0	0	2
+Transurethral Resection of Prostate	0	0	0	0	0	2
+Ulna Fractures	0	0	0	0	0	2
+Ultrasonography, Doppler	0	0	0	0	0	2
+Ultrasonography, Prenatal	0	0	0	0	0	2
+Underachievement	0	0	0	0	0	2
+United States Department of Defense	0	0	0	0	0	2
+United States Food and Drug Administration	0	0	0	0	0	2
+United States Substance Abuse and Mental Health Services Administration	0	0	0	0	0	2
+Universal Coverage	0	0	0	0	0	2
+Uruguay	0	0	0	0	0	2
+Uterus	0	0	0	0	0	2
+Validation Studies as Topic	0	0	0	0	0	2
+Value-Based Purchasing	0	0	0	0	0	2
+Venous Thromboembolism	0	0	0	0	0	2
+Vitrectomy	0	0	0	0	0	2
+Vitreous Body	0	0	0	0	0	2
+Waist Circumference	0	0	0	0	0	2
+Waiting Lists	0	0	0	0	0	2
+Wakefulness	0	0	0	0	0	2
+Weight Gain	0	0	0	0	0	2
+Weight Loss	0	0	0	0	0	2
+Wrist Joint	0	0	0	0	0	2
+Yoga	0	0	0	0	0	2
+Managed Care Programs	0	0	4	70	22	0
+Information Services	0	14	4	16	20	0
+Los Angeles	0	0	6	4	10	0
+Developed Countries	0	0	0	4	10	0
+Moral Development	0	0	12	14	8	0
+Child Abuse	0	0	0	6	8	0
+Hospitals, District	0	2	4	4	8	0
+New England	0	0	0	4	8	0
+Forms and Records Control	0	0	6	0	8	0
+Bioterrorism	0	0	0	0	8	0
+Child Health Services	0	0	0	0	8	0
+Hepatitis C	0	0	0	0	8	0
+Libraries, Digital	0	0	0	0	8	0
+Touch	0	0	0	0	8	0
+Urologic Surgical Procedures	0	0	0	0	8	0
+Artificial Intelligence	0	4	8	8	6	0
+Iowa	0	10	6	6	6	0
+Drug Therapy	0	2	2	4	6	0
+Community Health Planning	0	0	0	4	6	0
+Bahrain	0	0	2	2	6	0
+Health Facility Closure	0	0	2	2	6	0
+Sick Role	0	2	2	0	6	0
+Morale	0	2	0	0	6	0
+Antitrust Laws	0	0	0	0	6	0
+Catholicism	0	0	0	0	6	0
+Colposcopy	0	0	0	0	6	0
+Habits	0	0	0	0	6	0
+Healthy People Programs	0	0	0	0	6	0
+Lebanon	0	0	0	0	6	0
+Musculoskeletal System	0	0	0	0	6	0
+Physical Therapy Specialty	0	0	0	0	6	0
+Pregnancy Outcome	0	0	0	0	6	0
+Principal Component Analysis	0	0	0	0	6	0
+Models, Econometric	0	0	0	8	4	0
+Office Visits	0	0	2	6	4	0
+Women's Health Services	0	0	0	6	4	0
+Accounting	0	0	2	4	4	0
+History, Modern 1601-	0	0	2	4	4	0
+Colonialism	0	0	0	4	4	0
+Elder Abuse	0	0	0	4	4	0
+Hernia, Inguinal	0	0	0	4	4	0
+Management Quality Circles	0	0	0	4	4	0
+Spouse Abuse	0	0	0	4	4	0
+Local Area Networks	0	2	2	2	4	0
+United States Health Resources and Services Administration	0	0	2	2	4	0
+Bayes Theorem	0	2	0	2	4	0
+Management Information Systems	0	2	0	2	4	0
+Records as Topic	0	2	0	2	4	0
+Sleep Disorders	0	2	0	2	4	0
+Anti-Inflammatory Agents, Non-Steroidal	0	0	0	2	4	0
+Craniocerebral Trauma	0	0	0	2	4	0
+Hospitals, Municipal	0	0	0	2	4	0
+Kansas	0	0	0	2	4	0
+Prostatic Neoplasms	0	0	0	2	4	0
+Podiatry	0	0	8	0	4	0
+Beneficence	0	0	6	0	4	0
+Prenatal Care	0	0	6	0	4	0
+Animal Testing Alternatives	0	0	4	0	4	0
+Medicare Part A	0	0	4	0	4	0
+Nervous System Diseases	0	0	4	0	4	0
+National Library of Medicine (U.S.)	2	2	2	0	4	0
+Hematology	0	2	2	0	4	0
+Population Growth	2	0	2	0	4	0
+Anatomy, Artistic	0	0	2	0	4	0
+Back Pain	0	0	2	0	4	0
+Interdepartmental Relations	0	0	2	0	4	0
+Jews	0	0	2	0	4	0
+Liability, Legal	0	0	2	0	4	0
+Mental Processes	0	0	2	0	4	0
+Nebraska	0	0	2	0	4	0
+Colorado	0	6	0	0	4	0
+Fluid Therapy	0	2	0	0	4	0
+Health Facility Administrators	0	2	0	0	4	0
+Introversion (Psychology)	0	2	0	0	4	0
+Mental Fatigue	0	2	0	0	4	0
+Vocabulary	0	2	0	0	4	0
+Adrenergic beta-Antagonists	0	0	0	0	4	0
+Attention Deficit Disorder with Hyperactivity	0	0	0	0	4	0
+Chlamydia Infections	0	0	0	0	4	0
+Colonic Diseases	0	0	0	0	4	0
+Computer Peripherals	0	0	0	0	4	0
+Contraception Behavior	0	0	0	0	4	0
+Diagnostic Techniques, Obstetrical and Gynecological	0	0	0	0	4	0
+Digital Rectal Examination	0	0	0	0	4	0
+Drug Resistance	0	0	0	0	4	0
+Early Diagnosis	0	0	0	0	4	0
+Extraversion (Psychology)	0	0	0	0	4	0
+Fantasy	0	0	0	0	4	0
+Fee-for-Service Plans	0	0	0	0	4	0
+Health Planning Councils	0	0	0	0	4	0
+Injury Severity Score	0	0	0	0	4	0
+Intrauterine Devices	0	0	0	0	4	0
+Kuwait	0	0	0	0	4	0
+Laos	0	0	0	0	4	0
+Medical Laboratory Personnel	0	0	0	0	4	0
+Natural Science Disciplines	0	0	0	0	4	0
+Northern Territory	0	0	0	0	4	0
+Nutrition Therapy	0	0	0	0	4	0
+Obstetric Nursing	0	0	0	0	4	0
+Pediatric Dentistry	0	0	0	0	4	0
+Personal Space	0	0	0	0	4	0
+Physician-Nurse Relations	0	0	0	0	4	0
+Recurrence	0	0	0	0	4	0
+Refusal to Participate	0	0	0	0	4	0
+Relief Work	0	0	0	0	4	0
+Severe Acute Respiratory Syndrome	0	0	0	0	4	0
+Temporal Bone	0	0	0	0	4	0
+Testis	0	0	0	0	4	0
+Thoracic Injuries	0	0	0	0	4	0
+Thorax	0	0	0	0	4	0
+Disease	0	4	2	10	2	0
+Cost Allocation	0	2	4	8	2	0
+Sociology	0	10	2	8	2	0
+Historiography	0	0	2	8	2	0
+Satellite Communications	0	0	0	8	2	0
+Freedom	0	0	4	6	2	0
+Medical Indigency	0	2	2	6	2	0
+Ambulatory Surgical Procedures	0	2	0	6	2	0
+Hospital Bed Capacity, under 100	0	0	0	6	2	0
+Breast Diseases	0	0	2	4	2	0
+State Government	0	0	2	4	2	0
+Fees and Charges	0	4	0	4	2	0
+Communism	0	2	0	4	2	0
+Auscultation	0	0	0	4	2	0
+Communications Media	0	0	0	4	2	0
+Religious Missions	0	0	0	4	2	0
+Coronary Disease	0	0	4	2	2	0
+Health Care Rationing	0	0	4	2	2	0
+Idaho	0	10	2	2	2	0
+Montana	0	8	2	2	2	0
+Saskatchewan	0	6	2	2	2	0
+Ethicists	0	4	2	2	2	0
+Anti-Arrhythmia Agents	0	0	2	2	2	0
+Biometry	0	0	2	2	2	0
+Hyperlipidemias	0	0	2	2	2	0
+Jugular Veins	0	0	2	2	2	0
+Manuals as Topic	0	0	2	2	2	0
+Museums	0	0	2	2	2	0
+Oncology Service, Hospital	0	0	2	2	2	0
+Hospital Bed Capacity, 100 to 299	0	12	0	2	2	0
+Area Health Education Centers	0	8	0	2	2	0
+Adrenal Cortex Hormones	0	4	0	2	2	0
+Dreams	0	2	0	2	2	0
+Facility Design and Construction	0	2	0	2	2	0
+Nutritional Physiological Phenomena	0	2	0	2	2	0
+Papua New Guinea	0	2	0	2	2	0
+Public Relations	0	2	0	2	2	0
+Wyoming	0	2	0	2	2	0
+Adolescent Health Services	0	0	0	2	2	0
+Ankle	0	0	0	2	2	0
+Aviation	0	0	0	2	2	0
+Bronchodilator Agents	0	0	0	2	2	0
+Catchment Area (Health)	0	0	0	2	2	0
+Child Abuse, Sexual	0	0	0	2	2	0
+Computing Methodologies	0	0	0	2	2	0
+Dissertations, Academic as Topic	0	0	0	2	2	0
+Endocrine System Diseases	0	0	0	2	2	0
+Epidemiologic Studies	0	0	0	2	2	0
+Existentialism	0	0	0	2	2	0
+Facility Regulation and Control	0	0	0	2	2	0
+Foot	0	0	0	2	2	0
+Foot Diseases	0	0	0	2	2	0
+Gatekeeping	0	0	0	2	2	0
+Genital Diseases, Female	0	0	0	2	2	0
+History, Early Modern 1451-1600	0	0	0	2	2	0
+Hospitals, County	0	0	0	2	2	0
+Hypolipidemic Agents	0	0	0	2	2	0
+Kidney	0	0	0	2	2	0
+Medically Uninsured	0	0	0	2	2	0
+Osteoarthritis	0	0	0	2	2	0
+Otitis Media	0	0	0	2	2	0
+Phlebotomy	0	0	0	2	2	0
+Physician Incentive Plans	0	0	0	2	2	0
+Plagiarism	0	0	0	2	2	0
+Postal Service	0	0	0	2	2	0
+Privatization	0	0	0	2	2	0
+Psychology, Medical	0	0	0	2	2	0
+Reference Books	0	0	0	2	2	0
+Social Problems	0	0	0	2	2	0
+Societies, Pharmaceutical	0	0	0	2	2	0
+Symbolism	0	0	0	2	2	0
+Thanatology	0	0	0	2	2	0
+Therapy, Computer-Assisted	0	0	0	2	2	0
+Unconscious (Psychology)	0	0	0	2	2	0
+Wrist Injuries	0	0	0	2	2	0
+Animals, Laboratory	0	0	12	0	2	0
+Anemia	0	0	6	0	2	0
+Northern Ireland	0	0	6	0	2	0
+Subject Headings	0	2	4	0	2	0
+Withholding Treatment	0	2	4	0	2	0
+Methods	2	42	2	0	2	0
+Hospital Bed Capacity, 300 to 499	0	6	2	0	2	0
+Personnel Administration, Hospital	0	4	2	0	2	0
+Health Planning Organizations	0	2	2	0	2	0
+Homes for the Aged	0	2	2	0	2	0
+Indonesia	0	2	2	0	2	0
+Libraries, Hospital	2	0	2	0	2	0
+Advance Directives	0	0	2	0	2	0
+Computer Terminals	0	0	2	0	2	0
+Employee Discipline	0	0	2	0	2	0
+Esthetics	0	0	2	0	2	0
+Ethics Consultation	0	0	2	0	2	0
+Hospital Administrators	0	0	2	0	2	0
+Infant Care	0	0	2	0	2	0
+Parent-Child Relations	0	0	2	0	2	0
+Pastoral Care	0	0	2	0	2	0
+Paternalism	0	0	2	0	2	0
+Physical Education and Training	0	0	2	0	2	0
+Unified Medical Language System	0	0	2	0	2	0
+Professional Review Organizations	0	8	0	0	2	0
+Health Facilities	0	6	0	0	2	0
+Accident Prevention	0	2	0	0	2	0
+Accidents	0	2	0	0	2	0
+Administration, Oral	0	2	0	0	2	0
+Coroners and Medical Examiners	0	2	0	0	2	0
+Electronics, Medical	0	2	0	0	2	0
+Iceland	0	2	0	0	2	0
+Institutional Practice	0	2	0	0	2	0
+Intellectual Disability	0	2	0	0	2	0
+Nicaragua	0	2	0	0	2	0
+Nurse Clinicians	0	2	0	0	2	0
+Prescriptions	0	2	0	0	2	0
+Preventive Dentistry	0	2	0	0	2	0
+Sudan	0	2	0	0	2	0
+Zoology	0	2	0	0	2	0
+Abbreviations as Topic	0	0	0	0	2	0
+Abdominal Injuries	0	0	0	0	2	0
+Accidents, Occupational	0	0	0	0	2	0
+Acetaminophen	0	0	0	0	2	0
+Administration, Sublingual	0	0	0	0	2	0
+Agricultural Workers' Diseases	0	0	0	0	2	0
+Aminoglycosides	0	0	0	0	2	0
+Anatomy, Comparative	0	0	0	0	2	0
+Anesthesia, Obstetrical	0	0	0	0	2	0
+Angiotensin Receptor Antagonists	0	0	0	0	2	0
+Anoxia	0	0	0	0	2	0
+Anthelmintics	0	0	0	0	2	0
+Anti-Ulcer Agents	0	0	0	0	2	0
+Arabs	0	0	0	0	2	0
+Artificial Organs	0	0	0	0	2	0
+Asia, Central	0	0	0	0	2	0
+Association Learning	0	0	0	0	2	0
+Autistic Disorder	0	0	0	0	2	0
+Back	0	0	0	0	2	0
+Bankruptcy	0	0	0	0	2	0
+Bible	0	0	0	0	2	0
+Bibliography of Medicine	0	0	0	0	2	0
+Binomial Distribution	0	0	0	0	2	0
+Biological Warfare	0	0	0	0	2	0
+Biophysical Phenomena	0	0	0	0	2	0
+Biophysics	0	0	0	0	2	0
+Blood	0	0	0	0	2	0
+Blood Circulation	0	0	0	0	2	0
+Blood-Borne Pathogens	0	0	0	0	2	0
+Body Surface Area	0	0	0	0	2	0
+Bronchoscopy	0	0	0	0	2	0
+Calcium, Dietary	0	0	0	0	2	0
+Capitalism	0	0	0	0	2	0
+Cardiac Output	0	0	0	0	2	0
+Catalogs, Drug	0	0	0	0	2	0
+Cattle	0	0	0	0	2	0
+Central Nervous System	0	0	0	0	2	0
+Cephalosporins	0	0	0	0	2	0
+Cervical Intraepithelial Neoplasia	0	0	0	0	2	0
+Cervix Uteri	0	0	0	0	2	0
+Chemical Warfare	0	0	0	0	2	0
+Child Guidance	0	0	0	0	2	0
+Child Nutrition Sciences	0	0	0	0	2	0
+Chlamydia trachomatis	0	0	0	0	2	0
+Cholera	0	0	0	0	2	0
+Cholesterol, HDL	0	0	0	0	2	0
+Cholesterol, LDL	0	0	0	0	2	0
+Chronobiology Phenomena	0	0	0	0	2	0
+Chronology as Topic	0	0	0	0	2	0
+Citalopram	0	0	0	0	2	0
+Clergy	0	0	0	0	2	0
+Clinical Enzyme Tests	0	0	0	0	2	0
+Clinical Trials, Phase I as Topic	0	0	0	0	2	0
+Coercion	0	0	0	0	2	0
+Color	0	0	0	0	2	0
+Communication Disorders	0	0	0	0	2	0
+Community-Acquired Infections	0	0	0	0	2	0
+Compensation and Redress	0	0	0	0	2	0
+Computer Storage Devices	0	0	0	0	2	0
+Connective Tissue	0	0	0	0	2	0
+Conservation of Natural Resources	0	0	0	0	2	0
+Contraceptives, Postcoital	0	0	0	0	2	0
+Coronary Care Units	0	0	0	0	2	0
+Cyclooxygenase 2 Inhibitors	0	0	0	0	2	0
+Cyclooxygenase Inhibitors	0	0	0	0	2	0
+Dairying	0	0	0	0	2	0
+Death, Sudden	0	0	0	0	2	0
+Deer	0	0	0	0	2	0
+Densitometry	0	0	0	0	2	0
+Dental Care for Aged	0	0	0	0	2	0
+Dental Care for Disabled	0	0	0	0	2	0
+Dermatitis, Allergic Contact	0	0	0	0	2	0
+Diabetic Foot	0	0	0	0	2	0
+Diabetic Neuropathies	0	0	0	0	2	0
+Diphosphonates	0	0	0	0	2	0
+Directories as Topic	0	0	0	0	2	0
+Disabled Children	0	0	0	0	2	0
+Disease Models, Animal	0	0	0	0	2	0
+DNA, Viral	0	0	0	0	2	0
+Drug Costs	0	0	0	0	2	0
+Drug Evaluation	0	0	0	0	2	0
+Drug Evaluation, Preclinical	0	0	0	0	2	0
+Dyssomnias	0	0	0	0	2	0
+Ear, Middle	0	0	0	0	2	0
+Eidetic Imagery	0	0	0	0	2	0
+Elasticity	0	0	0	0	2	0
+Electroencephalography	0	0	0	0	2	0
+Electromyography	0	0	0	0	2	0
+Emblems and Insignia	0	0	0	0	2	0
+Embolism, Air	0	0	0	0	2	0
+Emergency Nursing	0	0	0	0	2	0
+Endocrine Surgical Procedures	0	0	0	0	2	0
+Endpoint Determination	0	0	0	0	2	0
+Entrepreneurship	0	0	0	0	2	0
+Environment Design	0	0	0	0	2	0
+Environmental Pollutants	0	0	0	0	2	0
+Epilepsy  	0	0	0	0	2	0
+Epinephrine	0	0	0	0	2	0
+Equipment Failure Analysis	0	0	0	0	2	0
+Erectile Dysfunction	0	0	0	0	2	0
+Evidence-Based Emergency Medicine	0	0	0	0	2	0
+Feces	0	0	0	0	2	0
+Femoral Vein	0	0	0	0	2	0
+Forensic Pathology	0	0	0	0	2	0
+Fractures, Open	0	0	0	0	2	0
+Gastrointestinal Agents	0	0	0	0	2	0
+Genetic Predisposition to Disease	0	0	0	0	2	0
+Genetic Privacy	0	0	0	0	2	0
+Genetics	0	0	0	0	2	0
+Health Services Misuse	0	0	0	0	2	0
+Heart Conduction System	0	0	0	0	2	0
+Helping Behavior	0	0	0	0	2	0
+Hemoglobin A, Glycosylated	0	0	0	0	2	0
+Hepacivirus	0	0	0	0	2	0
+Hepatectomy	0	0	0	0	2	0
+Hernia, Ventral	0	0	0	0	2	0
+Hinduism	0	0	0	0	2	0
+Histocytochemistry	0	0	0	0	2	0
+HIV	0	0	0	0	2	0
+Hospitals, Chronic Disease	0	0	0	0	2	0
+Housing	0	0	0	0	2	0
+Hyperthyroidism	0	0	0	0	2	0
+Hypnotics and Sedatives	0	0	0	0	2	0
+Hypovolemia	0	0	0	0	2	0
+Ileus	0	0	0	0	2	0
+Iliac Artery	0	0	0	0	2	0
+Immunization Programs	0	0	0	0	2	0
+Incidental Findings	0	0	0	0	2	0
+Infection Control Practitioners	0	0	0	0	2	0
+Infectious Disease Transmission, Professional-to-Patient	0	0	0	0	2	0
+Inflammation	0	0	0	0	2	0
+Inflation, Economic	0	0	0	0	2	0
+Instinct	0	0	0	0	2	0
+Integrated Advanced Information Management Systems	0	0	0	0	2	0
+Iron	0	0	0	0	2	0
+Kidney Transplantation	0	0	0	0	2	0
+Kinetics	0	0	0	0	2	0
+Knee Injuries	0	0	0	0	2	0
+Knowledge Bases	0	0	0	0	2	0
+Labor, Obstetric	0	0	0	0	2	0
+Lactation	0	0	0	0	2	0
+Laryngeal Masks	0	0	0	0	2	0
+Lead Poisoning	0	0	0	0	2	0
+Learning Disorders	0	0	0	0	2	0
+Library Science	0	0	0	0	2	0
+Lung	0	0	0	0	2	0
+Lyme Disease	0	0	0	0	2	0
+Lymph Node Excision	0	0	0	0	2	0
+Macedonia (Republic)	0	0	0	0	2	0
+Malassezia	0	0	0	0	2	0
+Manipulation, Osteopathic	0	0	0	0	2	0
+Maternal Mortality	0	0	0	0	2	0
+Medication Systems, Hospital	0	0	0	0	2	0
+Mental Health Associations	0	0	0	0	2	0
+Migraine Disorders	0	0	0	0	2	0
+Missionaries	0	0	0	0	2	0
+Monitoring, Intraoperative	0	0	0	0	2	0
+Muscles	0	0	0	0	2	0
+Musculoskeletal Manipulations	0	0	0	0	2	0
+Narcissism	0	0	0	0	2	0
+National Institute of Mental Health (U.S.)	0	0	0	0	2	0
+National Socialism	0	0	0	0	2	0
+Nausea	0	0	0	0	2	0
+Neuroanatomy	0	0	0	0	2	0
+Neuromuscular Blocking Agents	0	0	0	0	2	0
+Nevada	0	0	0	0	2	0
+Nifedipine	0	0	0	0	2	0
+Nursing Education Research	0	0	0	0	2	0
+Nursing Methodology Research	0	0	0	0	2	0
+Nursing Process	0	0	0	0	2	0
+Oculomotor Muscles	0	0	0	0	2	0
+Otorhinolaryngologic Diseases	0	0	0	0	2	0
+Otorhinolaryngologic Neoplasms	0	0	0	0	2	0
+Pain Measurement	0	0	0	0	2	0
+Paint	0	0	0	0	2	0
+Panama	0	0	0	0	2	0
+Pancreatectomy	0	0	0	0	2	0
+Paracentesis	0	0	0	0	2	0
+Patch Tests	0	0	0	0	2	0
+Pathology, Veterinary	0	0	0	0	2	0
+Patient Credit and Collection	0	0	0	0	2	0
+Pediatric Nursing	0	0	0	0	2	0
+Peptic Ulcer	0	0	0	0	2	0
+Perioperative Nursing	0	0	0	0	2	0
+Personality Disorders	0	0	0	0	2	0
+Persons With Hearing Impairments	0	0	0	0	2	0
+Phacoemulsification	0	0	0	0	2	0
+Pharmacoepidemiology	0	0	0	0	2	0
+Photomicrography	0	0	0	0	2	0
+Physical Stimulation	0	0	0	0	2	0
+Play and Playthings	0	0	0	0	2	0
+Pneumonia	0	0	0	0	2	0
+Pneumonia, Bacterial	0	0	0	0	2	0
+Polysomnography	0	0	0	0	2	0
+Prenatal Diagnosis	0	0	0	0	2	0
+Presumed Consent	0	0	0	0	2	0
+Proctocolectomy, Restorative	0	0	0	0	2	0
+Prostatectomy	0	0	0	0	2	0
+Prostate-Specific Antigen	0	0	0	0	2	0
+Proteinuria	0	0	0	0	2	0
+Psychotic Disorders	0	0	0	0	2	0
+Publication Bias	0	0	0	0	2	0
+Pulmonary Embolism	0	0	0	0	2	0
+Pulmonary Emphysema	0	0	0	0	2	0
+Qatar	0	0	0	0	2	0
+Radiology Information Systems	0	0	0	0	2	0
+Range of Motion, Articular	0	0	0	0	2	0
+Rape	0	0	0	0	2	0
+Rats, Sprague-Dawley	0	0	0	0	2	0
+Recognition (Psychology)	0	0	0	0	2	0
+Rectal Diseases	0	0	0	0	2	0
+Rectum	0	0	0	0	2	0
+Relaxation Therapy	0	0	0	0	2	0
+Renal Artery	0	0	0	0	2	0
+Reproductive Rights	0	0	0	0	2	0
+Respiratory Function Tests	0	0	0	0	2	0
+Retroperitoneal Space	0	0	0	0	2	0
+RNA, Viral	0	0	0	0	2	0
+Sadism	0	0	0	0	2	0
+Scattering, Radiation	0	0	0	0	2	0
+Schizotypal Personality Disorder	0	0	0	0	2	0
+Schools, Dental	0	0	0	0	2	0
+Self Administration	0	0	0	0	2	0
+Self Medication	0	0	0	0	2	0
+Self-Examination	0	0	0	0	2	0
+Sentinel Surveillance	0	0	0	0	2	0
+September 11 Terrorist Attacks	0	0	0	0	2	0
+Serotonin Uptake Inhibitors	0	0	0	0	2	0
+Signal Processing, Computer-Assisted	0	0	0	0	2	0
+Snakes	0	0	0	0	2	0
+Social Adjustment	0	0	0	0	2	0
+Social Desirability	0	0	0	0	2	0
+Sound	0	0	0	0	2	0
+Southeastern United States	0	0	0	0	2	0
+Speech Recognition Software	0	0	0	0	2	0
+Sphenoid Bone	0	0	0	0	2	0
+Spinal Cord	0	0	0	0	2	0
+Stress, Mechanical	0	0	0	0	2	0
+Stroke Volume	0	0	0	0	2	0
+Strongyloides stercoralis	0	0	0	0	2	0
+Strongyloidiasis	0	0	0	0	2	0
+Sunlight	0	0	0	0	2	0
+Surgical Instruments	0	0	0	0	2	0
+Tajikistan	0	0	0	0	2	0
+Tasmania	0	0	0	0	2	0
+Temporal Arteries	0	0	0	0	2	0
+Tennis Elbow	0	0	0	0	2	0
+Terminally Ill	0	0	0	0	2	0
+Testicular Neoplasms	0	0	0	0	2	0
+Thrombolytic Therapy	0	0	0	0	2	0
+Tissue Fixation	0	0	0	0	2	0
+Tobacco, Smokeless	0	0	0	0	2	0
+Toxins, Biological	0	0	0	0	2	0
+Transaminases	0	0	0	0	2	0
+Transducers	0	0	0	0	2	0
+Transference (Psychology)	0	0	0	0	2	0
+Tunisia	0	0	0	0	2	0
+Tympanic Membrane	0	0	0	0	2	0
+Uncompensated Care	0	0	0	0	2	0
+United States Government Agencies	0	0	0	0	2	0
+United States Occupational Safety and Health Administration	0	0	0	0	2	0
+Urinary Diversion	0	0	0	0	2	0
+Urologic Diseases	0	0	0	0	2	0
+Urologic Surgical Procedures, Male	0	0	0	0	2	0
+Vascular Resistance	0	0	0	0	2	0
+Venous Thrombosis	0	0	0	0	2	0
+Verbal Learning	0	0	0	0	2	0
+Veterinary Medicine	0	0	0	0	2	0
+Visible Human Projects	0	0	0	0	2	0
+Vitamins	0	0	0	0	2	0
+Vivisection	0	0	0	0	2	0
+Vomiting	0	0	0	0	2	0
+Whiplash Injuries	0	0	0	0	2	0
+Wounds, Penetrating	0	0	0	0	2	0
+X-Rays	0	0	0	0	2	0
+Economic Competition	0	0	0	12	0	0
+Health	0	2	2	6	0	0
+Anthropology	0	0	0	6	0	0
+Decision Making, Computer-Assisted	0	4	4	4	0	0
+Colombia	0	2	4	4	0	0
+Fees, Medical	0	2	4	4	0	0
+Chiropractic	0	0	2	4	0	0
+Education, Pharmacy, Continuing	0	0	2	4	0	0
+Rate Setting and Review	0	0	2	4	0	0
+School Health Services	0	0	2	4	0	0
+Strikes, Employee	0	0	2	4	0	0
+Fund Raising	0	2	0	4	0	0
+Metabolism	0	2	0	4	0	0
+Arctic Regions	0	0	0	4	0	0
+Equipment Failure	0	0	0	4	0	0
+Hospital Restructuring	0	0	0	4	0	0
+Hypnosis	0	0	0	4	0	0
+Information Science	0	0	0	4	0	0
+Judaism	0	0	0	4	0	0
+Mexican Americans	0	0	0	4	0	0
+Punishment	0	0	0	4	0	0
+Respiratory Tract Diseases	0	0	0	4	0	0
+Bioethical Issues	0	8	6	2	0	0
+Hospital Bed Capacity, 500 and over	0	0	6	2	0	0
+Radiotherapy	0	2	4	2	0	0
+Student Health Services	0	2	4	2	0	0
+Legislation as Topic	2	2	2	2	0	0
+Foreign Professional Personnel	0	2	2	2	0	0
+Bed Occupancy	0	0	2	2	0	0
+Capitation Fee	0	0	2	2	0	0
+Casuistry	0	0	2	2	0	0
+Cholelithiasis	0	0	2	2	0	0
+Christianity	0	0	2	2	0	0
+Dietetics	0	0	2	2	0	0
+Hematocrit	0	0	2	2	0	0
+Hydrocephalus	0	0	2	2	0	0
+Hypercholesterolemia	0	0	2	2	0	0
+Manipulation, Orthopedic	0	0	2	2	0	0
+Psychotropic Drugs	0	0	2	2	0	0
+State Health Plans	0	0	2	2	0	0
+Torture	0	0	2	2	0	0
+Treatment Refusal	0	0	2	2	0	0
+Venereology	0	0	2	2	0	0
+Hospitals, Psychiatric	0	6	0	2	0	0
+Partnership Practice	0	4	0	2	0	0
+Angina Pectoris	0	2	0	2	0	0
+Arrhythmias, Cardiac	0	2	0	2	0	0
+Health Benefit Plans, Employee	0	2	0	2	0	0
+Homeostasis	0	2	0	2	0	0
+Hospitals, State	0	2	0	2	0	0
+Medical Staff Privileges	0	2	0	2	0	0
+Models, Structural	0	2	0	2	0	0
+Psychopharmacology	0	2	0	2	0	0
+Respiration	0	2	0	2	0	0
+Social Security	0	2	0	2	0	0
+Unemployment	0	2	0	2	0	0
+United States Dept. of Health and Human Services	0	2	0	2	0	0
+Abortion, Legal	0	0	0	2	0	0
+Abscess	0	0	0	2	0	0
+Acid-Base Imbalance	0	0	0	2	0	0
+Acoustics	0	0	0	2	0	0
+Air Ambulances	0	0	0	2	0	0
+Americas	0	0	0	2	0	0
+Autobiography as Topic	0	0	0	2	0	0
+Battered Women	0	0	0	2	0	0
+Blood Banks	0	0	0	2	0	0
+Bone and Bones	0	0	0	2	0	0
+Brain Diseases	0	0	0	2	0	0
+Capnography	0	0	0	2	0	0
+Carcinoma, Ductal, Breast	0	0	0	2	0	0
+Cataloging	0	0	0	2	0	0
+Cell Biology	0	0	0	2	0	0
+Censuses	0	0	0	2	0	0
+Cerebellar Diseases	0	0	0	2	0	0
+Cerebral Infarction	0	0	0	2	0	0
+Cerebrospinal Fluid Shunts	0	0	0	2	0	0
+Ceremonial Behavior	0	0	0	2	0	0
+Chief Executive Officers, Hospital	0	0	0	2	0	0
+Cholinergic Antagonists	0	0	0	2	0	0
+Cognition Disorders	0	0	0	2	0	0
+Community Health Nursing	0	0	0	2	0	0
+Confounding Factors (Epidemiology)	0	0	0	2	0	0
+Control Groups	0	0	0	2	0	0
+Cost Sharing	0	0	0	2	0	0
+Day Care	0	0	0	2	0	0
+Defensive Medicine	0	0	0	2	0	0
+Delivery Rooms	0	0	0	2	0	0
+Dentistry	0	0	0	2	0	0
+Dentists	0	0	0	2	0	0
+Diarrhea	0	0	0	2	0	0
+Diet Therapy	0	0	0	2	0	0
+Dogs	0	0	0	2	0	0
+Echocardiography, Transesophageal	0	0	0	2	0	0
+Ecology	0	0	0	2	0	0
+Economics, Pharmaceutical	0	0	0	2	0	0
+Embalming	0	0	0	2	0	0
+Estonia	0	0	0	2	0	0
+False Negative Reactions	0	0	0	2	0	0
+False Positive Reactions	0	0	0	2	0	0
+Family Therapy	0	0	0	2	0	0
+Femoral Neck Fractures	0	0	0	2	0	0
+Glucose Tolerance Test	0	0	0	2	0	0
+Hemoglobins	0	0	0	2	0	0
+Hemostasis	0	0	0	2	0	0
+Hypokalemic Periodic Paralysis	0	0	0	2	0	0
+Imagery (Psychotherapy)	0	0	0	2	0	0
+Information Centers	0	0	0	2	0	0
+Injections, Epidural	0	0	0	2	0	0
+Iodine	0	0	0	2	0	0
+Licensure, Hospital	0	0	0	2	0	0
+Liver Transplantation	0	0	0	2	0	0
+Mandatory Reporting	0	0	0	2	0	0
+Manipulation, Spinal	0	0	0	2	0	0
+Marital Therapy	0	0	0	2	0	0
+Military Nursing	0	0	0	2	0	0
+Mitral Valve Stenosis	0	0	0	2	0	0
+Monitoring, Physiologic	0	0	0	2	0	0
+Mountaineering	0	0	0	2	0	0
+Needlestick Injuries	0	0	0	2	0	0
+Neonatal Nursing	0	0	0	2	0	0
+Neural Networks (Computer)	0	0	0	2	0	0
+Neuroradiography	0	0	0	2	0	0
+Occupational Health Services	0	0	0	2	0	0
+Osteoarthritis, Knee	0	0	0	2	0	0
+Oximetry	0	0	0	2	0	0
+Papanicolaou Test	0	0	0	2	0	0
+Paranasal Sinus Diseases	0	0	0	2	0	0
+Personnel Downsizing	0	0	0	2	0	0
+Personnel Loyalty	0	0	0	2	0	0
+Pharyngitis	0	0	0	2	0	0
+Polyesters	0	0	0	2	0	0
+Population	0	0	0	2	0	0
+Porphyrias, Hepatic	0	0	0	2	0	0
+Principle-Based Ethics	0	0	0	2	0	0
+Professional Corporations	0	0	0	2	0	0
+Proportional Hazards Models	0	0	0	2	0	0
+Radius Fractures	0	0	0	2	0	0
+Rehabilitation Centers	0	0	0	2	0	0
+Religion and Sex	0	0	0	2	0	0
+Respiratory Sounds	0	0	0	2	0	0
+Sanitation	0	0	0	2	0	0
+Secularism	0	0	0	2	0	0
+Ships	0	0	0	2	0	0
+Slovenia	0	0	0	2	0	0
+Social Dominance	0	0	0	2	0	0
+Space Flight	0	0	0	2	0	0
+Streptococcal Infections	0	0	0	2	0	0
+Subacute Care	0	0	0	2	0	0
+Suburban Population	0	0	0	2	0	0
+Suicide, Assisted	0	0	0	2	0	0
+Tachycardia, Ventricular	0	0	0	2	0	0
+Taxes	0	0	0	2	0	0
+Technology, Radiologic	0	0	0	2	0	0
+Tetanus	0	0	0	2	0	0
+Thrombophlebitis	0	0	0	2	0	0
+Thyroid Diseases	0	0	0	2	0	0
+Thyroid Function Tests	0	0	0	2	0	0
+Thyrotoxicosis	0	0	0	2	0	0
+Transportation	0	0	0	2	0	0
+Trinidad and Tobago	0	0	0	2	0	0
+Tuberculosis, Pulmonary	0	0	0	2	0	0
+United States Indian Health Service	0	0	0	2	0	0
+United States National Aeronautics and Space Administration	0	0	0	2	0	0
+Venous Pressure	0	0	0	2	0	0
+Volition	0	0	0	2	0	0
+Voluntary Health Agencies	0	0	0	2	0	0
+Water-Electrolyte Imbalance	0	0	0	2	0	0
+Czechoslovakia	0	2	14	0	0	0
+Animal Welfare	0	0	10	0	0	0
+Primary Prevention	0	4	8	0	0	0
+Financial Management, Hospital	0	2	4	0	0	0
+Ancillary Services, Hospital	0	0	4	0	0	0
+Animal Care Committees	0	0	4	0	0	0
+Chest Pain	0	0	4	0	0	0
+Hospitals, Osteopathic	0	0	4	0	0	0
+Liver Diseases	0	0	4	0	0	0
+Street Drugs	0	0	4	0	0	0
+Grief	0	4	2	0	0	0
+Identification (Psychology)	0	4	2	0	0	0
+Cats	0	2	2	0	0	0
+Group Practice, Prepaid	0	2	2	0	0	0
+Hospitals, Special	0	2	2	0	0	0
+Organizations	0	2	2	0	0	0
+Pain, Intractable	0	2	2	0	0	0
+Probability Learning	0	2	2	0	0	0
+American Cancer Society	0	0	2	0	0	0
+Animal Rights	0	0	2	0	0	0
+Ascites	0	0	2	0	0	0
+Biochemical Phenomena	0	0	2	0	0	0
+Blood Cell Count	0	0	2	0	0	0
+Blood Transfusion, Autologous	0	0	2	0	0	0
+Bone Development	0	0	2	0	0	0
+Community Psychiatry	0	0	2	0	0	0
+Diethylstilbestrol	0	0	2	0	0	0
+Dominance-Subordination	0	0	2	0	0	0
+Education, Dental, Continuing	0	0	2	0	0	0
+Eye	0	0	2	0	0	0
+Far East	0	0	2	0	0	0
+Genital Neoplasms, Female	0	0	2	0	0	0
+HIV-1	0	0	2	0	0	0
+Hobbies	0	0	2	0	0	0
+Image Enhancement	0	0	2	0	0	0
+Insurance Claim Reporting	0	0	2	0	0	0
+Jehovah's Witnesses	0	0	2	0	0	0
+Language Tests	0	0	2	0	0	0
+Maxillofacial Development	0	0	2	0	0	0
+Nurse-Patient Relations	0	0	2	0	0	0
+Pathology Department, Hospital	0	0	2	0	0	0
+Pharmaceutical Preparations	0	0	2	0	0	0
+Plants, Toxic	0	0	2	0	0	0
+Pneumonia, Pneumococcal	0	0	2	0	0	0
+Postnatal Care	0	0	2	0	0	0
+Prince Edward Island	0	0	2	0	0	0
+Product Line Management	0	0	2	0	0	0
+Reflex, Babinski	0	0	2	0	0	0
+Reflex, Pupillary	0	0	2	0	0	0
+Societies, Hospital	0	0	2	0	0	0
+Theology	0	0	2	0	0	0
+Thromboembolism	0	0	2	0	0	0
+Tobacco	0	0	2	0	0	0
+United Nations	0	0	2	0	0	0
+Lung Diseases, Obstructive	0	12	0	0	0	0
+Pan American Health Organization	0	12	0	0	0	0
+Sigmoidoscopy	0	10	0	0	0	0
+Health Facility Planning	0	6	0	0	0	0
+Arthritis, Rheumatoid	0	4	0	0	0	0
+Lung Diseases	0	4	0	0	0	0
+Medicine, East Asian Traditional	0	4	0	0	0	0
+Nutrition Disorders	0	4	0	0	0	0
+Pharmacy Service, Hospital	0	4	0	0	0	0
+Psychiatric Status Rating Scales	0	4	0	0	0	0
+Respiration Disorders	0	4	0	0	0	0
+Sigmoidoscopes	0	4	0	0	0	0
+Alcoholics Anonymous	0	2	0	0	0	0
+Anesthesia, Local	0	2	0	0	0	0
+Anger	0	2	0	0	0	0
+Authoritarianism	0	2	0	0	0	0
+Bacterial Infections	0	2	0	0	0	0
+Body Temperature	0	2	0	0	0	0
+Book Selection	0	2	0	0	0	0
+Carotid Arteries	0	2	0	0	0	0
+Cataplexy	0	2	0	0	0	0
+Cattell Personality Factor Questionnaire	0	2	0	0	0	0
+Chaplaincy Service, Hospital	0	2	0	0	0	0
+Child Nutritional Physiological Phenomena	0	2	0	0	0	0
+Circumcision, Male	0	2	0	0	0	0
+Coal Mining	0	2	0	0	0	0
+Colonic Neoplasms	0	2	0	0	0	0
+Consumer Organizations	0	2	0	0	0	0
+Crisis Intervention	0	2	0	0	0	0
+Delirium, Dementia, Amnestic, Cognitive Disorders	0	2	0	0	0	0
+Denial (Psychology)	0	2	0	0	0	0
+Diagnostic Services	0	2	0	0	0	0
+Dislocations	0	2	0	0	0	0
+Dosage Forms	0	2	0	0	0	0
+Dracunculiasis	0	2	0	0	0	0
+Education of Intellectually Disabled	0	2	0	0	0	0
+Education, Pharmacy, Graduate	0	2	0	0	0	0
+Elbow	0	2	0	0	0	0
+Electronics	0	2	0	0	0	0
+Enuresis	0	2	0	0	0	0
+Ethnology	0	2	0	0	0	0
+Fee Schedules	0	2	0	0	0	0
+Fiber Optic Technology	0	2	0	0	0	0
+Health Facilities, Proprietary	0	2	0	0	0	0
+Histological Techniques	0	2	0	0	0	0
+Infant, Newborn, Diseases	0	2	0	0	0	0
+Infusions, Parenteral	0	2	0	0	0	0
+Institutionalization	0	2	0	0	0	0
+Insurance, Health, Reimbursement	0	2	0	0	0	0
+Insurance, Hospitalization	0	2	0	0	0	0
+Medical Record Administrators	0	2	0	0	0	0
+Medical Record Linkage	0	2	0	0	0	0
+MEDLARS	0	2	0	0	0	0
+Metabolic Diseases	0	2	0	0	0	0
+Methylprednisolone	0	2	0	0	0	0
+Modems	0	2	0	0	0	0
+Moscow	0	2	0	0	0	0
+Mycology	0	2	0	0	0	0
+Narcolepsy	0	2	0	0	0	0
+Neoplasms, Radiation-Induced	0	2	0	0	0	0
+Object Attachment	0	2	0	0	0	0
+Optometry	0	2	0	0	0	0
+Orthomolecular Therapy	0	2	0	0	0	0
+Patient Dropouts	0	2	0	0	0	0
+Personality Development	0	2	0	0	0	0
+Peru	0	2	0	0	0	0
+Prednisone	0	2	0	0	0	0
+Preferred Provider Organizations	0	2	0	0	0	0
+Psychoanalytic Theory	0	2	0	0	0	0
+Psychodrama	0	2	0	0	0	0
+Psychoses, Alcoholic	0	2	0	0	0	0
+Psychoses, Substance-Induced	0	2	0	0	0	0
+Rationalization	0	2	0	0	0	0
+Schistosomiasis	0	2	0	0	0	0
+Semantic Differential	0	2	0	0	0	0
+Shoes	0	2	0	0	0	0
+Sodium	0	2	0	0	0	0
+Speech	0	2	0	0	0	0
+Theophylline	0	2	0	0	0	0
+Torsion Abnormality	0	2	0	0	0	0
+Toxicology	0	2	0	0	0	0
+Type A Personality	0	2	0	0	0	0
+Venezuela	0	2	0	0	0	0
+Water-Electrolyte Balance	0	2	0	0	0	0
+Diagnostic Techniques, Surgical	2	0	0	0	0	0
